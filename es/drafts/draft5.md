@@ -2,8 +2,6 @@
 title: "5º Borrador"
 date: "2020-09-23"
 icon: "light/draft"
-link_drafts: true
-no_title: false
 ---
 
 {{< title-multiline "Acuerdo de Glasgow:" "El compromiso climático de los Pueblos" >}}
@@ -39,3 +37,7 @@ El Acuerdo de Glasgow entrará en vigor cuando al menos 400 (?) organizaciones y
 Las indicaciones sobre las reducciones necesarias a nivel territorial estarán basadas en metodologías como [Climate Equity Reference](https://climateequityreference.org/), [Climate Fair Shares](http://www.climatefairshares.org/) o el [Paris Equity Check](http://paris-equity-check.org/), las cuales proponen contribuciones nacionales igualitarias fundamentadas en emisiones históricas y en la capacidad de los países.  
 
 Transcurridos dos meses tras la firma, todos los miembros del Acuerdo de Glasgow habrán producido el primer inventario nacional de nuevos proyectos y de los mayores contaminadores y la correspondiente agenda climática, con información que incluya un orden de prioridad de infraestructuras a clausurar. En cada territorio los miembros del acuerdo producirán un listado de forma colectiva. Esta información estará centralizada y será pública en la página web pública del Acuerdo de Glasgow, y será comunicada a todos los miembros. Esta página web también recibirá las peticiones de apoyo y asistencia de todas las organizaciones que lo requieran.  
+
+---
+
+# [Borradores anteriores](/es/drafts)

@@ -2,8 +2,6 @@
 title: "6º Rascunho"
 date: "2020-09-26"
 icon: "light/draft"
-link_drafts: true
-no_title: false
 ---
 
 {{< title-multiline "Acordo de Glasgow:" "Compromisso Climático dos Povos" >}}
@@ -42,3 +40,7 @@ Definimos planeamento democrático como [...]
 As indicações dos cortes necessários territoriais serão baseados em metodologias como a [Climate Equity Reference](https://climateequityreference.org/), [Climate Fair Shares](http://www.climatefairshares.org/) ou [Paris Equity Check](http://paris-equity-check.org/) que propõem contribuições nacionais equitativas baseadas em emissões históricas e capacidades.  
 
 Três meses após o acordo ter sido assinado, todos os membros do Acordo de Glasgow terão produzido o seu primeiro inventário nacional de novos projetos e principais emissores, bem como a agenda climática correspondente, com informação como a ordem de prioridade para encerramento. Em cada território os membros irão produzir esta lista coletivamente. Esta informação será centralizada num website público do Acordo de Glasgow e reportada diretamente a todos os membros. Este website também receberá comunicação de todas as organizações sobre a assistência requerida.  
+
+---
+
+# [Rascunhos Anteriores](/pt/drafts)

@@ -2,8 +2,6 @@
 title: "4e Versie"
 date: "2020-08-31"
 icon: "light/draft"
-link_drafts: true
-no_title: false
 ---
 
 {{< title-multiline "Glasgow-overeenkomst:" "Klimaatverdrag van de burgers" >}}
@@ -39,3 +37,7 @@ De Glasgow-overeenkomst wordt van kracht wanneer ten minste 400(?) organisaties 
 De bepaling van de territoriaal vereiste reducties zal worden gebaseerd op methodologieën zoals de [Climate Equity Reference](https://climateequityreference.org/), [Climate Fair Shares](http://www.climatefairshares.org/) of [Paris Equity Check](http://paris-equity-check.org/), die gelijkwaardige nationale bijdragen voorstellen op basis van historische emissies en capaciteit.  
 
 Twee maanden na de ondertekening zullen alle leden van de Glasgow-overeenkomst hun eerste nationale inventarisatie van nieuwe projecten en de belangrijkste uitstoters hebben gemaakt, met informatie zoals de prioriteiten voor sluiting. In elk gebied zullen de leden deze lijst gezamenlijk opstellen. Deze informatie zal worden gecentraliseerd op een openbare website van de Glasgow-overeenkomst en rechtstreeks aan alle leden worden gerapporteerd. Deze website zal ook communicatie ontvangen van alle organisaties over de vereiste ondersteuning.  
+
+---
+
+<!-- # [Previous Drafts](/nl/drafts) -->

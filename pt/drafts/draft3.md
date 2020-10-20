@@ -38,7 +38,7 @@ As indicações dos cortes necessários nacionais serão baseados em metodologia
 
 Dois meses após o acordo ter sido assinado, todos os membros do Acordo de Glasgow terão produzido o seu primeiro inventário nacional de novos projetos e principais emissores com uma ordem de prioridade de encerramento. Em cada país os membros irão produzir esta lista coletivamente. Esta informação será centralizada num website público do Acordo de Glasgow e reportada diretamente a todos os membros. Este website também receberá comunicação de todas as organizações sobre a assistência requerida.  
 
-Haverá um modelo tipo para este inventário. 
+Haverá um modelo tipo para este inventário.  
 
 ---
 

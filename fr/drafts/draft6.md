@@ -2,8 +2,6 @@
 title: "6ème Version"
 date: "2020-10-12"
 icon: "light/draft"
-link_drafts: true
-no_title: false
 ---
 
 {{< title-multiline "Accord de Glasgow:" "Engagement des peuples pour le climat" >}}
@@ -44,3 +42,7 @@ Nous définissons la planification démocratique comme [...]
 L’indication des réductions nécessaires au niveau territorial sera basée sur des méthodologies telles que le Climate Equity Reference](https://climateequityreference.org/), le [Climate Fair Shares](http://www.climatefairshares.org/) ou le [Paris Equity Check](http://paris-equity-check.org/) qui proposent des contributions nationales équitables basées sur les émissions historiques et les capacités de chaque pays.  
 
 Deux mois après la signature de l’Accord de Glasgow, tous les membres auront produit leur premier inventaire national des nouveaux projets, des principaux secteurs et des infrastructures, responsables pour la majeure partie des émissions nationales. Ainsi que l'agenda climatique correspondant, avec des informations désignant ce qu’il faut stopper prioritairement. Les organisations d’un même territoire réaliseront cette liste collectivement. Ces informations seront centralisées sur le site internet public de l’Accord de Glasgow et directement communiquées à tous les membres. Le site permettra de collecter les demandes d’aide des organisations qui en exprimeront le besoin.  
+
+---
+
+# [Versions Précédentes](/fr/drafts)
