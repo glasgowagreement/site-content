@@ -1,0 +1,43 @@
+---
+title: "4e Versie"
+date: "2020-08-31"
+icon: "light/draft"
+---
+
+{{< title-multiline "Glasgow-overeenkomst:" "Klimaatverdrag van de burgers" >}}
+
+Het institutionele kader dat regeringen, internationale organisaties en het hele economische systeem voor de klimaatcrisis gebruiken, slaagt er niet in om de opwarming van de aarde tegen 2100 onder 1,5 of 2°C te houden. Dit institutionele kader is gebouwd om te falen en een illusie van klimaatactie te creëren terwijl beslissende stappen worden uitgesteld en de uitstoot van broeikasgassen blijft stijgen. De belangrijkste institutionele regelingen inzake klimaatverandering, namelijk het Protocol van Kyoto en het Akkoord van Parijs, hebben niet geleid tot de vermindering van de wereldwijde uitstoot van broeikasgassen die nodig is om de gevolgen van klimaatverandering een halt toe te roepen. Het Akkoord van Parijs is slechts een procedure en zal niet in staat zijn zijn eigen doel te bereiken om de ergste gevolgen van klimaatverandering te voorkomen.  
+
+Honderden overheden, gemeenten en organisaties hebben een klimaatnoodtoestand uitgeroepen. Enorme protesten in de straten over de hele wereld hebben ook herhaaldelijk opgeroepen tot resolute actie op het gebied van klimaatrechtvaardigheid binnen de tijdlijn van 2030 met wetenschappelijke consensus over de noodzaak om de uitstoot van broeikasgassen in deze periode met 50 procent te verminderen. Deze krachtige beweging voor klimaatrechtvaardigheid heeft nieuwe instrumenten nodig om deze fundamentele tegenstrijdigheden aan te pakken en het mondiale verhaal om te buigen van institutionele machteloosheid naar sociale macht.  
+
+Als zodanig veronderstellen de ondergetekende organisaties en sociale bewegingen:  
+1. De noodzaak om de uitstoot van broeikasgassen collectief terug te dringen, de verantwoordelijkheid op zich te nemen en af te zien van de enkelvoudige focus in de institutionele strijd - namelijk de focus op de onderhandelingen met de regeringen en de Verenigde Naties;  
+2. Dat politieke en economische niet-samenwerking, evenals geweldloze interventie, met name burgerlijke ongehoorzaamheid, de belangrijkste instrumenten zijn voor de uitvoering van de overeenkomst van Glasgow. In deze context wordt burgerlijke ongehoorzaamheid gedefinieerd als een niet-gewelddadige, doelbewuste en gerechtvaardigde schending van wetten die in het openbaar zijn gemaakt en gericht zijn op regeringen, openbare en particuliere bedrijven en infrastructuren, en die we als laatste redmiddel willen gebruiken, aangezien de acties uit het verleden hebben aangetoond dat de politieke en economische macht onverzettelijk en apathisch is geweest ten aanzien van de wereldwijde milieucrisis. We interpreteren het als een collectieve tactiek die met oprechtheid en morele overtuiging wordt gebruikt, die pleit voor gerechtigheid onder vrije en gelijke personen, en bestaat uit zorgvuldig gekozen acties met legitieme geweldloze middelen. We zullen open en verantwoordelijk zijn voor onze daden van burgerlijke ongehoorzaamheid, en we zullen handelen in solidariteit met anderen die te maken hebben met onderdrukking of juridische gevolgen voor hun daden van burgerlijke ongehoorzaamheid. Gezien de voortschrijdende klimaat- en ecologische noodtoestand zijn we ervan overtuigd dat nietsdoen crimineel is en denken we dat we aansprakelijk zijn als we de wetten die de ineenstorting van onze wereldwijde materiële milieuomstandigheden vaststellen, beschermen of reproduceren, niet overtreden.  
+3. Het politieke kader voor deze vereiste reducties en klimaatactie is dat van de klimaatrechtvaardigheid, die als volgt wordt gedefinieerd:  
+Klimaatrechtvaardigheid is een maatschappelijke en politieke eis die pleit voor een herverdeling van macht, kennis en welzijn. Het stelt een nieuw begrip voor van welvaart binnen natuurlijke grenzen en rechtvaardige verdeling van hulpbronnen, waarbij wordt gepleit voor een effectieve verbinding tussen traditionele en verwesterde kennissystemen. Het roept op tot een publieke en participatieve wetenschap om de behoeften van de mensheid en de aarde aan te pakken, met name om de klimaatcrisis een halt toe te roepen.  
+In dit opzicht:  
+    - Het erkent de onderlinge verbondenheid van alle soorten, bevestigt de noodzaak om te verminderen met als doel het elimineren van de productie van broeikasgassen en de daarmee samenhangende lokale vervuilende stoffen;
+    - Het erkent en integreert de zorgeconomie in het dagelijks leven, met de gedeelde verantwoordelijkheid van personen, ongeacht hun genderidentiteit, voor zorg- en onderhoudsactiviteiten, zowel binnenshuis als in de maatschappij - klimaatrechtvaardigheid stelt het leven centraal;
+    - Het ziet de economie als een subsysteem van het milieu, dat democratische planning op basis van reële behoeften verdedigt en onderdrukking, oplegging en toe-eigening  vervangt met samenwerking, compassie en wederzijdse hulp;
+    - Het verdedigt een rechtvaardige overgang voor werknemers die momenteel werkzaam zijn in de sectoren die moeten worden ontmanteld, aangepast of ingekrompen, en voorziet in het levensonderhoud van deze werknemers in verschillende economieën en samenlevingen. Deze overgang moet gebaseerd zijn op gelijkwaardigheid en rechtvaardigheid, het rechtzetten van de schade uit het verleden en het veiligstellen van het levensonderhoud van werknemers en gemeenschappen in de toekomst, waarbij de noodzakelijke verschuiving van een extractieve economie naar een klimaat-veilige maatschappij wordt benaderd, om economische en politieke macht voor een regeneratieve economie op te bouwen;
+    - Het betekent dat de kennis van Inheemse gemeenschappen moet worden hersteld, waarbij de gunstige effecten van pragmatische menselijke activiteiten op de levenscycli en de ecosystemen moeten worden bevorderd;
+    - Het verdedigt de invoering van herstelbetalingen aan gemeenschappen en volkeren in de frontlinies van kolonialisme, globalisering en uitbuiting, en erkent dat er een historische schuld en een ecologische schuld bestaat die aan het mondiale Zuiden moet worden betaald en dat er een einde moet komen aan de oorsprong van die schulden;
+    - Het verzet zich tegen de soevereiniteit van het kapitaal, waarbij het kapitalisme wordt opgevat als onverenigbaar met de principes van het levenssysteem;
+    - Het weigert groen kapitalisme en extractivisme, wat een vorm van productie is die gebaseerd is op de steeds groter wordende ontginning van materialen en overschotten, zonder rekening te houden met alle gevolgen voor het milieu en de samenleving.
+4. De productie van een inventaris van de belangrijkste sectoren en uitstoters van broeikasgassen en toekomstige projecten in elk gebied, die nationaal en internationaal zal worden geadverteerd en die als basis zal dienen voor een gebiedsgebonden klimaatagenda waarin prioriteiten zullen worden gesteld voor actie op het gebied van afsluiting en transformatie, en die een brede "klimaatagenda" voor klimaatrechtvaardigheid zal vormen;  
+5. Het bepalen van hun eigen lokale en nationale strategieën voor het opstellen van die klimaatagenda, voor het stoppen van nieuwe projecten en van grote nationale sectoren en infrastructuren die broeikasgassen uitstoten, en voor het oproepen tot steun aan andere organisaties die zich bezighouden met de Overeenkomst van Glasgow (nationaal en internationaal);  
+6. Het ondersteunen van andere aangesloten organisaties van de Glasgow-overeenkomst met instrumenten om de doelstellingen van de overeenkomst te bereiken.  
+
+De Glasgow-overeenkomst wordt van kracht wanneer ten minste 400(?) organisaties en sociale bewegingen uit 50 (?) landen op alle continenten het hebben ondertekend.  
+
+---
+
+#### Opmerkingen:  
+
+De bepaling van de territoriaal vereiste reducties zal worden gebaseerd op methodologieën zoals de [Climate Equity Reference](https://climateequityreference.org/), [Climate Fair Shares](http://www.climatefairshares.org/) of [Paris Equity Check](http://paris-equity-check.org/), die gelijkwaardige nationale bijdragen voorstellen op basis van historische emissies en capaciteit.  
+
+Twee maanden na de ondertekening zullen alle leden van de Glasgow-overeenkomst hun eerste nationale inventarisatie van nieuwe projecten en de belangrijkste uitstoters hebben gemaakt, met informatie zoals de prioriteiten voor sluiting. In elk gebied zullen de leden deze lijst gezamenlijk opstellen. Deze informatie zal worden gecentraliseerd op een openbare website van de Glasgow-overeenkomst en rechtstreeks aan alle leden worden gerapporteerd. Deze website zal ook communicatie ontvangen van alle organisaties over de vereiste ondersteuning.  
+
+---
+
+<!-- # [Previous Drafts](/nl/drafts) -->
