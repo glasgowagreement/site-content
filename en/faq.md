@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 icon: "light/question"
-date: "2020-07-22"
+date: "2020-10-24"
 updated: true
 toc: true
 ---
@@ -30,7 +30,7 @@ Any social movement or organisation, small or large, local, regional, national, 
 
 ### 5. Our organization is good at technical issues but is far away from direct action, can we join?
 
-Yes, one of the commitments in this agreement is to share skills globally, so you can help other organisations with your technical skills and other organisations can help you with direct action, tactics and skills if you so desire. [(Also see question 6)](#6-my-organisation-does-not-consider-practicing-civil-disobedience-although-we-think-is-legitimate-that-other-organizations-use-this-tool-can-we-be-part-of-the-agreement)  
+Yes, one of the commitments in this agreement is to share skills globally, so you can help other organisations with your technical skills and other organisations can help you with direct action, tactics and skills if you so desire. [(Also see question 6)](#6-my-organisation-does-not-consider-practicing-civil-disobedience-although-we-think-it-is-legitimate-that-other-organizations-use-this-tool-can-we-be-part-of-the-agreement)  
 
 ### 6. My organisation does not consider practicing civil disobedience, although we think it is legitimate that other organizations use this tool, can we be part of the Agreement?
 
@@ -38,9 +38,9 @@ Yes, your organisation can be part of this Agreement, as long as it is not oppos
 
 ### 7. How can I join the Glasgow Agreement?
 
-If your organisation wants to sign and commit to the Glasgow Agreement,  you should fill and submit the [contact form](/contact) as well as attend the signature ceremony. The ceremony will take place on the 16th November as an online event part of the [_From the Ground Up!_ Conference](https://www.facebook.com/events/1463215500536387/).
+If your organisation wants to sign and commit to the Glasgow Agreement,  you should fill and submit the [contact form](../contact) as well as attend the signature ceremony. The ceremony will take place on the 16th November as an online event part of the [_From the Ground Up!_ Conference](https://www.facebook.com/events/1463215500536387/).  
 
-After submited the contact form we will send you a welcomekit and add your email to our communications channels.
+After submited the contact form we will send you a welcomekit and add your email to our communications channels.  
 
 ## How does it work?
 
@@ -60,13 +60,13 @@ The decision-making process and proposals are an articulation between working gr
 
 The agreement text decision making process couldn't make room for neither abuse of power nor hierarchies, and there must be an active effort to reach consensus without losing the propose of escalation and compromise. Therefore, during the first months we used ongoing feedback loops for the development and construction of the text.  
 
-The only text constrains was that it must be short and concise, fully inside the limits of time and emissions, as well as inside the definitions of climate justice and civil disobedience.
+The only text constrains was that it must be short and concise, fully inside the limits of time and emissions, as well as inside the definitions of climate justice and civil disobedience.  
 
-We reached a consensus of the agreement text at the 18th October assembly. You can read it [here](/agreement).
+We reached a consensus of the agreement text at the 18th October assembly. You can read it [here](../agreement).  
 
 ### 10. How can I join the Assembly?
 
-The active participation in the assemblies is conditional to the commitment made by organisations to participate in the Glasgow Agreement [(see How can I join the Glasgow Agreement?)](#7-How-can-I-join-the-Glasgow-Agreement?)
+The active participation in the assemblies is conditional to the commitment made by organisations to participate in the Glasgow Agreement [(see How can I join the Glasgow Agreement?)](#7-how-can-i-join-the-glasgow-agreement)  
 
 Organisations interested in joining can be invited to take part as observers (including the ability to ask questions) but will not be able to take part in decisions until their organisation has expressed its commitment.  
 
@@ -102,7 +102,7 @@ We are aware that shutting down polluting infrastructures is not sufficient. We 
 
 ### 16.  What is the purpose of the Climate Agenda that is to be produced?
 
-The climate agenda is an action plan for shutdown, reset and transition designed by communities, movements, and organisations working on the ground. The agenda is based on the terrotial inventory and climate justice demands, aiming to set us on track for staying below 1.5ºC global warming by 2100. 
+The climate agenda is an action plan for shutdown, reset and transition designed by communities, movements, and organisations working on the ground. The agenda is based on the terrotial inventory and climate justice demands, aiming to set us on track for staying below 1.5ºC global warming by 2100.  
 
 ### 17. Why is the focus/commitment on civil disobedience and non-cooperation?
 
@@ -112,4 +112,4 @@ When institutions fail us, civil disobedience and non-cooperation are the most i
 
 ### 18. Does the Glasgow Agreement mean the institutional advocacy work should be abandoned?
 
-No. Every organisation that wants to continue the institutional struggle is welcome to do so. In this agreement however, that is not the goal. We focus on the power of the people and movements to cut emissions and shut down harmful industries and projects. Many movements to date, have focused on pushing institutions to take action, nevertheless we have failed to achieve the necessary results to prevent catastrophic climate change. With the Glasgow Agreement we look for a commitment for adequate, timely and concrete action, which institutions are invited to catch up with as well as commit to.   
+No. Every organisation that wants to continue the institutional struggle is welcome to do so. In this agreement however, that is not the goal. We focus on the power of the people and movements to cut emissions and shut down harmful industries and projects. Many movements to date, have focused on pushing institutions to take action, nevertheless we have failed to achieve the necessary results to prevent catastrophic climate change. With the Glasgow Agreement we look for a commitment for adequate, timely and concrete action, which institutions are invited to catch up with as well as commit to.  
