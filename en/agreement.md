@@ -11,27 +11,47 @@ The institutional framework used by governments, international organisations and
 
 Hundreds of governments, municipalities and organisations have declared a climate emergency. Massive protest in streets all around the world have repeatedly called for decisive action for climate justice inside the deadline of 2030, with scientific consensus on the need for a minimum cut by 50% of global greenhouse gas emissions within this period. To achieve any measure of these objectives, no new fossil fuel (coal, oil and gas) projects or infrastructure can be developed. A powerful climate justice movement needs new and enhanced tools to address these fundamental contradictions and to reverse the global narrative from institutional impotence into social power that brings about lasting change.  
 
-As such, the undersigned organisations[^1] and social movements assume:
-1. The political framework for the required cuts and climate action will be that of climate justice, which is defined as a social and political demand that advocates for the redistribution of power, knowledge and wellbeing. It proposes a new notion of prosperity within natural limits and just resource distribution, advocating for a true connection between traditional and westernised knowledge systems. It calls for a public and participatory science to address the needs of humanity and of the earth, principally to stop the climate crisis;  
+As such, the undersigned organisations[^1] and social movements assume:  
+
+{{< icon-title "light" "justice" "1. The political framework for the required cuts and climate action will be that of climate justice" >}}
+
+which is defined as a social and political demand that advocates for the redistribution of power, knowledge and wellbeing. It proposes a new notion of prosperity within natural limits and just resource distribution, advocating for a true connection between traditional and westernised knowledge systems. It calls for a public and participatory science to address the needs of humanity and of the earth, principally to stop the climate crisis;  
+
 In this respect:  
-    - It recognises the interdependence between all species and affirms the need to reduce, with an aim to eliminate, the production of greenhouse gases and associated local pollutants;
-    - It acknowledges and integrates the care economy into daily life, with the shared responsibility of persons, regardless of their gender identity, for care and maintenance activities, both inside homes and within society - climate justice puts life at the centre;
-    - It supports the structural changes in society to redress centuries of systemic racism, colonialism and imperialism - climate justice is racial justice;
-    - It perceives the economy to be under the rules of the environment, and not the other way around, defending democratic planning[^2] based on real needs, replacing oppression, imposition and appropriation for cooperation, solidarity and mutual aid;
-    - It defends a just transition for workers currently employed in the sectors that need to be dismantled, reconfigured or downsized, providing support to these workers in different economies and societies, introducing energy sovereignty[^3] and energy sufficiency[^4]. This transition must be just and equitable, redressing past harms and securing the future livelihoods of workers and communities, approaching the necessary shift from an extractive economy into a climate-safe society, to build economic and political power for a regenerative economy;
-    - It means to recover knowledge from indigenous communities, promoting the pragmatic human activity that has beneficial effects on life cycles and ecosystems;
-    - It defends the introduction of reparation for communities and peoples at the frontlines of colonialism, globalisation and exploitation, acknowledging that there is a historical and ecological debt that must be paid to the Global South, and that the origins of said debts need to be stopped;
-    - It recognises that the effects of climate breakdown are here and now. The poorest communities in the world are experiencing loss of their homes and livelihoods, damage to their lands and culture, and are in urgent need of funding. Global solidarity and pressure is needed, to shine a light on the corporations and governments responsible for loss and damage, and to uplift the voices of the people and places most affected;
-    - It defends the full protection, freedom of movement, and civil, political, and economic rights of migrants;
-    - It defends food sovereignty as the peoples’ right to define their agricultural and food policies, without any dumping vis-à-vis third countries;
-    - It opposes exponential and unbound economic growth - contemporarily reflected in the sovereignty of capital -, understanding capitalism as incompatible with the principles of life systems;
-    - It refuses green capitalism and its proposed “solutions" (be them “nature based”, geo-engineering, carbon trading, carbon markets or others), as well as extractivism[^5].
-2. Taking into their own hands the need to collectively cut greenhouse gas emissions and keep fossil fuels in the ground. While participating in the Glasgow Agreement, organisations will maintain their main focus away from institutional struggle - namely from negotiations with governments and the United Nations;
-3. The production of an inventory of the main sectors, infrastructures and future projects responsible for the emissions of greenhouse gases in each territory, that will be nationally and internationally publicised. There will be a technical working group to support and follow-up the creation of this inventory;
-4. The production of a territorial climate agenda based on the inventory. The climate agenda is an action plan, designed by communities, movements, and organisations working on the ground, that is informed by the inventory of the biggest greenhouse gas emissions sources (existing and planned) in its area of concern. It aims to set us on track for staying below 1.5ºC global warming by 2100 inside a clear framework of climate justice;
-5. That political and economic noncooperation, as well as nonviolent intervention, in particular civil disobedience[^6], are the main tools for the fulfilment of the Glasgow Agreement. At the same time, we recognise that for oppressed groups and those living in more oppressive societies, it is much more difficult to partake directly in civil disobedience. The tactic of civil disobedience is only one of the tactics through which the Glasgow Agreement’s objectives can be fulfilled.  
-Additionally, we acknowledge that the strategy of civil disobedience has long been used, under various names, by many before us, particularly in marginalised communities and in the Global South, and we would not be able to join this struggle without these historical and contemporary sacrifices, and continuous action against climate change through struggles to keep fossil fuels underground and resistance to other industrial causes of global warming;
-6. To define their own local and national strategies and tactics on how to enact the climate agenda, and to call for the support of other member organisations of the Glasgow Agreement (nationally and internationally). The organisations from the Global North underline their commitment to support those in the Global South, through solidarity with existing struggles and by directly addressing projects led by governments, corporations, banks and financial institutions based in the Global North.  
+- It recognises the interdependence between all species and affirms the need to reduce, with an aim to eliminate, the production of greenhouse gases and associated local pollutants;
+- It acknowledges and integrates the care economy into daily life, with the shared responsibility of persons, regardless of their gender identity, for care and maintenance activities, both inside homes and within society - climate justice puts life at the centre;
+- It supports the structural changes in society to redress centuries of systemic racism, colonialism and imperialism - climate justice is racial justice;
+- It perceives the economy to be under the rules of the environment, and not the other way around, defending democratic planning[^2] based on real needs, replacing oppression, imposition and appropriation for cooperation, solidarity and mutual aid;
+- It defends a just transition for workers currently employed in the sectors that need to be dismantled, reconfigured or downsized, providing support to these workers in different economies and societies, introducing energy sovereignty[^3] and energy sufficiency[^4]. This transition must be just and equitable, redressing past harms and securing the future livelihoods of workers and communities, approaching the necessary shift from an extractive economy into a climate-safe society, to build economic and political power for a regenerative economy;
+- It means to recover knowledge from indigenous communities, promoting the pragmatic human activity that has beneficial effects on life cycles and ecosystems;
+- It defends the introduction of reparation for communities and peoples at the frontlines of colonialism, globalisation and exploitation, acknowledging that there is a historical and ecological debt that must be paid to the Global South, and that the origins of said debts need to be stopped;
+- It recognises that the effects of climate breakdown are here and now. The poorest communities in the world are experiencing loss of their homes and livelihoods, damage to their lands and culture, and are in urgent need of funding. Global solidarity and pressure is needed, to shine a light on the corporations and governments responsible for loss and damage, and to uplift the voices of the people and places most affected;
+- It defends the full protection, freedom of movement, and civil, political, and economic rights of migrants;
+- It defends food sovereignty as the peoples’ right to define their agricultural and food policies, without any dumping vis-à-vis third countries;
+- It opposes exponential and unbound economic growth - contemporarily reflected in the sovereignty of capital -, understanding capitalism as incompatible with the principles of life systems;
+- It refuses green capitalism and its proposed “solutions" (be them “nature based”, geo-engineering, carbon trading, carbon markets or others), as well as extractivism[^5].
+
+{{< icon-title "light" "ecology" "2. Taking into their own hands the need to collectively cut greenhouse gas emissions and keep fossil fuels in the ground." >}}
+
+While participating in the Glasgow Agreement, organisations will maintain their main focus away from institutional struggle - namely from negotiations with governments and the United Nations;  
+
+{{< icon-title "light" "checklist" "3. The production of an inventory" >}}
+
+of the main sectors, infrastructures and future projects responsible for the emissions of greenhouse gases in each territory, that will be nationally and internationally publicised. There will be a technical working group to support and follow-up the creation of this inventory;  
+
+{{< icon-title "light" "calendar" "4. The production of a territorial climate agenda based on the inventory." >}}
+
+The climate agenda is an action plan, designed by communities, movements, and organisations working on the ground, that is informed by the inventory of the biggest greenhouse gas emissions sources (existing and planned) in its area of concern. It aims to set us on track for staying below 1.5ºC global warming by 2100 inside a clear framework of climate justice;  
+
+{{< icon-title "light" "protest" "5. That political and economic noncooperation, as well as nonviolent intervention," >}}
+
+in particular civil disobedience[^6], are the main tools for the fulfilment of the Glasgow Agreement. At the same time, we recognise that for oppressed groups and those living in more oppressive societies, it is much more difficult to partake directly in civil disobedience. The tactic of civil disobedience is only one of the tactics through which the Glasgow Agreement’s objectives can be fulfilled.  
+
+Additionally, we acknowledge that the strategy of civil disobedience has long been used, under various names, by many before us, particularly in marginalised communities and in the Global South, and we would not be able to join this struggle without these historical and contemporary sacrifices, and continuous action against climate change through struggles to keep fossil fuels underground and resistance to other industrial causes of global warming;  
+
+{{< icon-title "light" "community" "6. Support each other and coordinate" >}}
+
+to define their own local and national strategies and tactics on how to enact the climate agenda, and to call for the support of other member organisations of the Glasgow Agreement (nationally and internationally). The organisations from the Global North underline their commitment to support those in the Global South, through solidarity with existing struggles and by directly addressing projects led by governments, corporations, banks and financial institutions based in the Global North.  
 
 ---
 
