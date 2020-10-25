@@ -55,7 +55,7 @@ to define their own local and national strategies and tactics on how to enact th
 
 ---
 
-#### Notes:  
+#### Notes:
 
 The indication of the territorially required cuts will be based on methodologies such as the [Paris Equity Check](http://paris-equity-check.org/) that propose equitable national contributions based on historical emissions and capacity.  
 
