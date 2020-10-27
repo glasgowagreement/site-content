@@ -11,7 +11,7 @@ The institutional framework used by governments, international organisations and
 
 Hundreds of governments, municipalities and organisations have declared a climate emergency. Massive protest in streets all around the world have repeatedly called for decisive action for climate justice inside the deadline of 2030, with scientific consensus on the need for a minimum cut by 50% of global greenhouse gas emissions within this period. To achieve any measure of these objectives, no new fossil fuel (coal, oil and gas) projects or infrastructure can be developed. A powerful climate justice movement needs new and enhanced tools to address these fundamental contradictions and to reverse the global narrative from institutional impotence into social power that brings about lasting change.  
 
-As such, the undersigned organisations[^1] and social movements assume:  
+**As such, the undersigned organisations[^1] and social movements assume:**  
 
 {{< icon-title "light" "justice" "1. The political framework for the required cuts and climate action will be that of climate justice" >}}
 

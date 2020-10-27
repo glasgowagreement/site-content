@@ -11,7 +11,7 @@ O quadro institucional utilizado por governos, organizações internacionais e p
 
 Centenas de governos, municípios e organizações declararam emergência climática. Protestos massivos nas ruas de todo o mundo também alertaram, repetidamente, para a necessidade da tomada de ação decisiva por justiça climática até 2030 e para o consenso científico sobre a necessidade de cortar 50% das emissões globais de gases com efeito estufa, dentro deste período. Para alcançar alguma medida destes objetivos, nenhum projeto ou infraestrutura de combustíveis fósseis (carvão, petróleo e gás) pode ser desenvolvido. Este poderoso movimento pela justiça climática precisa de ferramentas novas e fortalecidas para lidar com estas contradições fundamentais e para reverter a narrativa global da impotência institucional, transformando-a em poder social que possa trazer consigo uma mudança duradoura.  
 
-Como tal, as organizações [^1] e movimentos sociais subscritoras assumem:  
+**Como tal, as organizações [^1] e movimentos sociais subscritoras assumem:**  
 
 {{< icon-title "light" "justice" "1. O quadro político para estes cortes necessários e ações climáticas será o da justiça climática," >}}
 
