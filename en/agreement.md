@@ -13,7 +13,7 @@ Hundreds of governments, municipalities and organisations have declared a climat
 
 **As such, the undersigned organisations[^1] and social movements assume:**  
 
-{{< icon-title "light" "justice" "1. The political framework for the required cuts and climate action will be that of climate justice" >}}
+{{< icon-title "light" "justice" "1. The political framework for the required cuts and climate action will be that of climate justice," >}}
 
 which is defined as a social and political demand that advocates for the redistribution of power, knowledge and wellbeing. It proposes a new notion of prosperity within natural limits and just resource distribution, advocating for a true connection between traditional and westernised knowledge systems. It calls for a public and participatory science to address the needs of humanity and of the earth, principally to stop the climate crisis;  
 
