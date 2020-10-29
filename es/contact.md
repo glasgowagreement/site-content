@@ -12,4 +12,4 @@ Si usted o su organización desea participar en el proceso de construcción del 
 Para cualquier otra consulta, envíe un correo electrónico a:  
 glasgowagreement@riseup.net  
 
-{{< form "https://framaforms.org/participacion-en-la-construccion-del-acuerdo-de-glasgow-1592923221" >}}
+{{< form "https://framaforms.org/unirse-a-acuerdo-de-glasgow-1592923221" >}}

@@ -12,4 +12,5 @@ If your organisation wants to join the Glasgow Agreement, please fill out the fo
 For any other enquiries, please send your correspondence to:  
 glasgowagreement@riseup.net  
 
-{{< form "https://framaforms.org/participate-in-the-glasgow-agreement-process-1592865726" >}}
+{{< form "https://framaforms.org/join-the-glasgow-agreement-1592865726" >}}
+
