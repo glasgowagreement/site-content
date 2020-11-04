@@ -43,9 +43,9 @@ des principaux projets, secteurs et infrastructures responsables des émissions 
 
 L’agenda climatique est un plan d’actions locales, conçu par les communautés, les mouvements et les organisations travaillant sur le terrain, qui s’appuie sur l’inventaire des plus grandes sources d’émissions de gaz à effet de serre (existantes et prévues). Il vise à nous mettre sur la bonne voie pour rester en dessous de 1,5ºC de réchauffement climatique d’ici 2100, toujours dans un cadre de justice climatique;  
 
-{{< icon-title "light" "protest" "5. L’absence de coopération politique et économique, l’action non-violente" >}}
+{{< icon-title "light" "protest" "5. L’absence de coopération politique et économique, l’action non-violente et en particulier la désobéissance civile comme principaux outils permettant de garantir la réussite de l’accord de Glasgow." >}}
 
-et en particulier la désobéissance civile [^6] comme principaux outils permettant de garantir la réussite de l’accord de Glasgow. En même temps, nous reconnaissons qu'il est bien plus difficile de prendre part à la désobéissance civile pour les groupes oppressés et pour les personnes vivant dans des sociétés plus oppressives. La désobéissance civile ne représente qu’une des tactiques permettant d’atteindre les objectifs de l'Accord de Glasgow;  
+En même temps, nous reconnaissons qu'il est bien plus difficile de prendre part à la désobéissance civile pour les groupes oppressés et pour les personnes vivant dans des sociétés plus oppressives. La désobéissance civile[^6] ne représente qu’une des tactiques permettant d’atteindre les objectifs de l'Accord de Glasgow;  
 
 De plus, nous reconnaissons que la stratégie de désobéissance civile a déjà été utilisée, sous plusieurs désignations, de nombreuses fois avant nous, plus particulièrement par des communautés marginalisées et dans le Sud Global. Nous serions incapables de nous joindre à cette lutte sans leurs sacrifices historiques et contemporains, leurs actions continues contre le changement climatique à travers leurs luttes pour garder les combustibles fossiles sous terre ainsi que leur résistance à d’autres causes industrielles du réchauffement planétaire;  
 

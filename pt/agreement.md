@@ -42,9 +42,9 @@ dos principais setores e emissores de gases com efeito estufa e os seus projetos
 
 A agenda climática é um plano de ação, elaborado por comunidades, movimentos e organizações que trabalham no terreno, e que é baseado no inventário das maiores fontes de emissão de gases com efeito estufa (existentes e planeadas) na sua área de atuação. O seu objetivo é colocar-nos no caminho certo para nos mantermos abaixo dos 1,5ºC de aquecimento global até 2100, dentro de um quadro claro de justiça climática.  
 
-{{< icon-title "light" "protest" "5. Que a não-cooperação política e económica, bem como a intervenção não violenta," >}}
+{{< icon-title "light" "protest" "5. Que a não-cooperação política e económica, bem como a intervenção não violenta, em particular a desobediência civil, são as principais ferramentas para o cumprimento do Acordo de Glasgow." >}}
 
-em particular a desobediência civil[^6], são as principais ferramentas para o cumprimento do Acordo de Glasgow. Ao mesmo tempo, reconhecemos que, para os grupos oprimidos e para aquelas pessoas que vivem em sociedades mais opressivas, é muito mais difícil participar na desobediência civil. A estratégia de desobediência civil é apenas uma forma de atingir o objetivo do Acordo de Glasgow.  
+Ao mesmo tempo, reconhecemos que, para os grupos oprimidos e para aquelas pessoas que vivem em sociedades mais opressivas, é muito mais difícil participar na desobediência civil. A estratégia de desobediência civil[^6] é apenas uma forma de atingir o objetivo do Acordo de Glasgow.  
 
 Além disso, reconhecemos que a estratégia de desobediência civil tem sido utilizada há muito tempo, sob vários nomes, por muitas pessoas antes de nós, particularmente em comunidades marginalizadas e no Sul Global, e não seríamos capazes de nos juntar a esta luta sem os seus sacrifícios passados e contemporâneos, as suas ações sucessivas contra as alterações climáticas através das suas lutas para manter os combustíveis fósseis no subsolo e a sua resistência a outras causas do aquecimento global;  
 

@@ -43,9 +43,9 @@ of the main sectors, infrastructures and future projects responsible for the emi
 
 The climate agenda is an action plan, designed by communities, movements, and organisations working on the ground, that is informed by the inventory of the biggest greenhouse gas emissions sources (existing and planned) in its area of concern. It aims to set us on track for staying below 1.5ºC global warming by 2100 inside a clear framework of climate justice;  
 
-{{< icon-title "light" "protest" "5. That political and economic noncooperation, as well as nonviolent intervention," >}}
+{{< icon-title "light" "protest" "5. That political and economic noncooperation, as well as nonviolent intervention, in particular civil disobedience, are the main tools for the fulfilment of the Glasgow Agreement." >}}
 
-in particular civil disobedience[^6], are the main tools for the fulfilment of the Glasgow Agreement. At the same time, we recognise that for oppressed groups and those living in more oppressive societies, it is much more difficult to partake directly in civil disobedience. The tactic of civil disobedience is only one of the tactics through which the Glasgow Agreement’s objectives can be fulfilled.  
+At the same time, we recognise that for oppressed groups and those living in more oppressive societies, it is much more difficult to partake directly in civil disobedience. The tactic of civil disobedience[^6] is only one of the tactics through which the Glasgow Agreement’s objectives can be fulfilled.  
 
 Additionally, we acknowledge that the strategy of civil disobedience has long been used, under various names, by many before us, particularly in marginalised communities and in the Global South, and we would not be able to join this struggle without these historical and contemporary sacrifices, and continuous action against climate change through struggles to keep fossil fuels underground and resistance to other industrial causes of global warming;  
 
