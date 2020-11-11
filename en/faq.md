@@ -60,7 +60,7 @@ The decision-making process and proposals are an articulation between working gr
 
 The agreement text decision making process couldn't make room for neither abuse of power nor hierarchies, and there must be an active effort to reach consensus without losing the propose of escalation and compromise. Therefore, during the first months we used ongoing feedback loops for the development and construction of the text.  
 
-The only text constrains was that it must be short and concise, fully inside the limits of time and emissions, as well as inside the definitions of climate justice and civil disobedience.  
+The only text constraints were that it had to be short and concise, fully inside the limits of time and emissions, as well as inside the definitions of climate justice and civil disobedience.  
 
 We reached a consensus of the agreement text at the 18th October assembly. You can read it [here](../agreement).  
 
@@ -102,7 +102,7 @@ We are aware that shutting down polluting infrastructures is not sufficient. We 
 
 ### 16.  What is the purpose of the Climate Agenda that is to be produced?
 
-The climate agenda is an action plan for shutdown, reset and transition designed by communities, movements, and organisations working on the ground. The agenda is based on the terrotial inventory and climate justice demands, aiming to set us on track for staying below 1.5ºC global warming by 2100.  
+The climate agenda is an action plan for shutdown, reset and transition designed by communities, movements, and organisations working on the ground. The agenda is based on the territorial inventory and climate justice demands, aiming to set us on track for staying below 1.5ºC global warming by 2100.  
 
 ### 17. Why is the focus/commitment on civil disobedience and non-cooperation?
 
