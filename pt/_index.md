@@ -12,7 +12,7 @@ O objetivo do [Acordo de Glasgow](./agreement) é recuperar a iniciativa dos gov
 
 Qualquer movimento ou organização social, pequena ou grande, local, regional, nacional ou internacional, pode participar, exceto partidos políticos, empresas comerciais e igrejas (grupos religiosos podem participar). Não é necessário que a organização esteja legalmente registada no seu país para participar.
 
-As organizações irão assinar e comprometer-se a participar activamente no Acordo de Glasgow na cerimónia de assinatura no dia 16 de Novembro, um evento online que faz parte da [_From the Ground Up!_ Conference](https://www.facebook.com/events/1463215500536387/).
+As organizações irão assinar e comprometer-se a participar activamente no Acordo de Glasgow na cerimónia de assinatura no dia 16 de Novembro e será um evento online que faz parte da [Conferência_From the Ground Up!_](https://www.facebook.com/events/1463215500536387/).
 
 Para se juntar ao Acordo de Glasgow deverá preencher o [formulário de contacto](contact) e participar na cerimónia de assinatura.  
 
