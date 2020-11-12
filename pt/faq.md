@@ -39,7 +39,8 @@ Sim, a sua organização pode fazer parte do Acordo, desde que não se oponha a 
 
 ### 7. Como é que me posso juntar ao Acordo de Glasgow?
 
-Se a sua organização quiser assinar e comprometer-se a participar activamente no Acordo de Glasgow, deverá preencher o [formulário de contacto](contact) e participar na cerimónia de assinatura. A cerimónia irá ter lugar no dia 16 de Novembro e será um evento online que faz parte da [Conferência_From the Ground Up!_](https://www.facebook.com/events/1463215500536387/).
+Se a sua organização quiser assinar e comprometer-se a participar activamente no Acordo de Glasgow, deverá preencher o [formulário de contacto](contact) e participar na cerimónia de assinatura. A cerimónia irá ter lugar no dia 16 de Novembro e será um evento online que faz parte da [Conferência_From the Ground Up!_](https://www.facebook.com/events/1463215500536387/). 
+Depois do formulário de contacto ser submetido iremos enviar-lhe um kit de boas vindas e adicionar o seu email aos nossos canais de comunicação.
 
 
 ## Como é que funciona?
@@ -59,7 +60,7 @@ O Acordo de Glasgow não possui uma estrutura fixa, a fim de se adaptar às nece
 
 O processo de tomada de decisão e as propostas são uma articulação entre os grupos de trabalho e a Assembleia. Esforçamo-nos para tomar decisões por consenso. Decisões políticas e decisões gerais são tomadas na Assembleia. A Assembleia também dá mandatos aos grupos de trabalho, que decidem sobre o seu próprio processo interno e as decisões operacionais do seu mandato. Os grupos de trabalho podem trazer propostas para a Assembleia.  
 
-O processo de tomada de decisão do texto do Acordo não pôde abrir espaço para abuso de poder nem hierarquias, e deve haver um esforço ativo para chegar a um consenso sem perder a proposta de escalação e compromisso. Portanto, durante os primeiros meses usámos loops de feedback contínuos para o desenvolvimento e construção do texto.  
+O processo de tomada de decisão do texto do Acordo não podia abrir espaço para abusos de poder nem hierarquias, e tinha de haver um esforço ativo para chegar a um consenso sem perder a proposta de escalação e compromisso. Portanto, durante os primeiros meses usámos loops de feedback contínuos para o desenvolvimento e construção do texto.  
 
 A única restrição foi que o texto devia ser curto e conciso, totalmente dentro dos limites de tempo e de emissões, bem como dentro das definições de justiça climática e desobediência civil.
 
@@ -103,13 +104,13 @@ Quando as instituições produzem os seus projetos climáticos, dividem a percen
 
 Estamos cientes de que fechar infraestruturas poluentes não é suficiente. Precisamos de uma transição justa, o que inclui criar alternativas. Ao fechar instalações, infraestruturas, fábricas ou indústrias de combustíveis fósseis vamos aumentar as pressões políticas, sociais e económicas por uma transição justa.
 
-### 16. Qual é o propósito da Agenda Climática que irá ser criada?
+### 16. Qual é o objectivo da Agenda Climática que vai ser criada?
 
 A Agenda Climática é um plano de ação para uma transição justa através de encerramento e re-estruturação, concebido por comunidades, movimentos e organizações que trabalham no terreno. A Agenda é baseada no inventário territorial e em exigências de justiça climática, com o objetivo de nos colocar no rumo de manter o aquecimento global abaixo dos 1.5ºC em 2100.
 
 ### 17. Porque é que o foco/compromisso está na desobediência civil e na não-cooperação?
 
-A principal narrativa do acordo é que os movimentos não devem ser arrastados para o fracasso das instituições. Sabemos da ameaça das alterações climáticas desde pelo menos 1980, tentámos muitas táticas, houve dois acordos internacionais [(consulte “Qual é o objetivo do Acordo de Glasgow?”)](http://localhost:1313/pt/faq/#1-qual-%C3%A9-o-objetivo-do-acordo-de-glasgow) e, no entanto, as emissões globais continuam a aumentar enquanto o tempo passa se esgota.  
+A principal narrativa do acordo é que os movimentos não devem ser arrastados para o fracasso das instituições. Sabemos da ameaça das alterações climáticas desde pelo menos 1980, tentámos muitas táticas, houve dois acordos internacionais [(consulte “Qual é o objetivo do Acordo de Glasgow?”)](http://localhost:1313/pt/faq/#1-qual-%C3%A9-o-objetivo-do-acordo-de-glasgow) e, no entanto, as emissões globais continuam a aumentar enquanto o tempo se esgota.  
 
 Quando as instituições fracassam, a desobediência civil e a não cooperação são os meios mais importantes à nossa disposição, como cidadãos deste mundo, para agir, escalar e coordenar globalmente e alcançar os cortes de emissões necessários para evitar a catástrofe climática.
 
