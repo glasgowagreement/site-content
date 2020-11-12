@@ -39,9 +39,9 @@ Sim, a sua organização pode fazer parte do Acordo, desde que não se oponha a 
 
 ### 7. Como é que me posso juntar ao Acordo de Glasgow?
 
-Se a sua organização quiser assinar e comprometer-se a participar activamente no Acordo de Glasgow, deverá preencher o [formulário de contacto](contact) e participar na cerimónia de assinatura. A cerimónia irá ter lugar no dia 16 de Novembro e será um evento online que faz parte da [Conferência_From the Ground Up!_](https://www.facebook.com/events/1463215500536387/). 
-Depois do formulário de contacto ser submetido iremos enviar-lhe um kit de boas vindas e adicionar o seu email aos nossos canais de comunicação.
+Se a sua organização quiser assinar e comprometer-se a participar activamente no Acordo de Glasgow, deverá preencher o [formulário de contacto](contact) e participar na cerimónia de assinatura. A cerimónia irá ter lugar no dia 16 de Novembro e será um evento online que faz parte da [Conferência *From the Ground Up!*](https://www.facebook.com/events/1463215500536387/).  
 
+Depois do formulário de contacto ser submetido iremos enviar-lhe um kit de boas vindas e adicionar o seu email aos nossos canais de comunicação.  
 
 ## Como é que funciona?
 
@@ -62,9 +62,9 @@ O processo de tomada de decisão e as propostas são uma articulação entre os 
 
 O processo de tomada de decisão do texto do Acordo não podia abrir espaço para abusos de poder nem hierarquias, e tinha de haver um esforço ativo para chegar a um consenso sem perder a proposta de escalação e compromisso. Portanto, durante os primeiros meses usámos loops de feedback contínuos para o desenvolvimento e construção do texto.  
 
-A única restrição foi que o texto devia ser curto e conciso, totalmente dentro dos limites de tempo e de emissões, bem como dentro das definições de justiça climática e desobediência civil.
+A única restrição foi que o texto devia ser curto e conciso, totalmente dentro dos limites de tempo e de emissões, bem como dentro das definições de justiça climática e desobediência civil.  
 
-Foi alcançado consenso quanto ao texto do Acordo na assembleia do dia 18 de Outubro. Poderá ler o texto [aqui](/agreement).
+Foi alcançado consenso quanto ao texto do Acordo na assembleia do dia 18 de Outubro. Poderá ler o texto [aqui](/agreement).  
 
 ### 10. Como é que me posso juntar à Assembleia?
 
@@ -78,7 +78,7 @@ Há um esforço ativo para ter traduções simultâneas nas Assembleias.
 
 ### 11. Como é que me posso juntar aos grupos de trabalho?
 
-Depois da sua organização confirmar o compromisso, receberá um kit de boas-vindas com as etapas para ingressar nos grupos de trabalho.
+Depois da sua organização confirmar o compromisso, receberá um kit de boas-vindas com as etapas para ingressar nos grupos de trabalho.  
 
 ### 12. Não falo inglês; como é que posso participar?
 
@@ -86,9 +86,7 @@ De momento, a nossa língua de trabalho ainda é principalmente o inglês. Recon
 
 Soluções para pessoas que não falam inglês estão a ser elaboradas e é um processo aberto. Até ao momento, traduzimos o texto para espanhol, francês e português. No entanto, sinta-se à vontade para comunicar connosco em outros idiomas (especialmente espanhol, português, francês ... etc.) e teremos o maior prazer em ajudar de todas as maneiras possíveis a procurar formas de tornar o processo mais inclusivo no idioma. Reconhecemos que isso é importante para construir um Acordo de Glasgow verdadeiramente global e inclusivo.  
 
-
 ## Acerca do Acordo
-
 
 ### 13. Qual é o objetivo do inventário que será produzido?
 
@@ -102,19 +100,18 @@ O processo está a ser elaborado no momento e esperamos disponibilizar em breve 
 
 Quando as instituições produzem os seus projetos climáticos, dividem a percentagem total de gases de efeito estufa que precisam ser reduzidos por diferentes setores, tornando-o muito abstrato. Se nos focarmos em instalações em concreto, infraestruturas, fábricas ou indústrias de combustíveis fósseis que precisam de ser desativadas, falaremos sobre o que esses cortes realmente significam e como eles são no terreno. Deixaremos de abordar a mitigação de emissões de maneira abstrata, e concentrar-nos-emos em programas políticos que podem ser implementados imediatamente.  
 
-Estamos cientes de que fechar infraestruturas poluentes não é suficiente. Precisamos de uma transição justa, o que inclui criar alternativas. Ao fechar instalações, infraestruturas, fábricas ou indústrias de combustíveis fósseis vamos aumentar as pressões políticas, sociais e económicas por uma transição justa.
+Estamos cientes de que fechar infraestruturas poluentes não é suficiente. Precisamos de uma transição justa, o que inclui criar alternativas. Ao fechar instalações, infraestruturas, fábricas ou indústrias de combustíveis fósseis vamos aumentar as pressões políticas, sociais e económicas por uma transição justa.  
 
 ### 16. Qual é o objectivo da Agenda Climática que vai ser criada?
 
-A Agenda Climática é um plano de ação para uma transição justa através de encerramento e re-estruturação, concebido por comunidades, movimentos e organizações que trabalham no terreno. A Agenda é baseada no inventário territorial e em exigências de justiça climática, com o objetivo de nos colocar no rumo de manter o aquecimento global abaixo dos 1.5ºC em 2100.
+A Agenda Climática é um plano de ação para uma transição justa através de encerramento e re-estruturação, concebido por comunidades, movimentos e organizações que trabalham no terreno. A Agenda é baseada no inventário territorial e em exigências de justiça climática, com o objetivo de nos colocar no rumo de manter o aquecimento global abaixo dos 1.5ºC em 2100.  
 
 ### 17. Porque é que o foco/compromisso está na desobediência civil e na não-cooperação?
 
 A principal narrativa do acordo é que os movimentos não devem ser arrastados para o fracasso das instituições. Sabemos da ameaça das alterações climáticas desde pelo menos 1980, tentámos muitas táticas, houve dois acordos internacionais [(consulte “Qual é o objetivo do Acordo de Glasgow?”)](http://localhost:1313/pt/faq/#1-qual-%C3%A9-o-objetivo-do-acordo-de-glasgow) e, no entanto, as emissões globais continuam a aumentar enquanto o tempo se esgota.  
 
-Quando as instituições fracassam, a desobediência civil e a não cooperação são os meios mais importantes à nossa disposição, como cidadãos deste mundo, para agir, escalar e coordenar globalmente e alcançar os cortes de emissões necessários para evitar a catástrofe climática.
+Quando as instituições fracassam, a desobediência civil e a não cooperação são os meios mais importantes à nossa disposição, como cidadãos deste mundo, para agir, escalar e coordenar globalmente e alcançar os cortes de emissões necessários para evitar a catástrofe climática.  
 
 ### 18. O Acordo de Glasgow implica que o trabalho institucional deve ser abandonado?
 
 Não. Todas as organizações que desejarem continuar a luta institucional são bem-vindas. No entanto, no âmbito deste Acordo, esse não é o objetivo. Nós concentramo-nos o poder das pessoas e dos movimentos para reduzir as emissões e encerrar indústrias e projetos prejudiciais. Até ao momento, muitos movimentos têm se concentrado em pressionar as instituições a agir, no entanto, não conseguimos os resultados necessários para evitar alterações climáticas catastróficas. Com o Acordo de Glasgow, procuramos o compromisso de ações adequadas, oportunas e concretas, as quais as instituições são convidadas a acompanhar e a comprometer-se com.  
-
