@@ -14,9 +14,11 @@ The purpose of the Glasgow Agreement is to reclaim the initiative from governmen
 
 ### 2. Which organisation(s) are behind the Glasgow Agreement?
 
-So far, at least {{< organisations_count >}} organizations have confirmed their participation in the process. The proposal for the Glasgow Agreement was presented for the first at the By2020WeRiseUp meeting in Iberia (Spain and Portugal), in February 2020, and at the By2020WeRiseUp meeting in Brussels, in early March. Other activists from organisations and grassroots movements around the world were consulted on the first draft.  
+We are currently more than {{< organisations_count >}} organisations from around the world that have committed to the [Glasgow Agreement](../agreement)! [Here](../organisations) you can see a list of those participating publicly.  
 
-The first draft is where the initiative started working from, but the final text will be a product of the discussions between all the organisations that decide to participate in this process. Names of the organisations participating in the process will only be made public if they give full consent to do so. The only organisations that will be publicly connected to this event will be those that sign the finalized text of the agreement.  
+The proposal for the Glasgow Agreement was presented for the first at the By2020WeRiseUp meeting in Iberia (Spain and Portugal), in February 2020, and at the By2020WeRiseUp meeting in Brussels, in early March. Other activists from organisations and grassroots movements around the world were consulted on the first draft.  
+
+Our first assembly was on the end of March and since then Glasgow Agreement was built with dozens of organizations from around the world, with clear and open processes, where the only criteria for participation was willingness to participate. Our political discussion was frank and open, we converged where we could and diverged where we had to, to reach our final agreement.  
 
 ### 3. Why is it called Glasgow Agreement?
 
@@ -38,9 +40,7 @@ Yes, your organisation can be part of this Agreement, as long as it is not oppos
 
 ### 7. How can I join the Glasgow Agreement?
 
-If your organisation wants to sign and commit to the Glasgow Agreement,  you should fill and submit the [contact form](../contact) as well as attend the signature ceremony. The ceremony will take place on the 16th November as an online event part of the [_From the Ground Up!_ Conference](https://www.facebook.com/events/1463215500536387/).  
-
-After submited the contact form we will send you a welcomekit and add your email to our communications channels.  
+If your organisation wants to sign and commit to the Glasgow Agreement,  you should fill and submit the [contact form](../contact). After submitting the contact form we will send you a welcome kit and add your email to our communications channels.  
 
 ## How does it work?
 
@@ -92,7 +92,9 @@ The inventory will provide a listing of the main emission sources within the ter
 
 ### 14. Is the production of the inventory a complicated exercise? (We are afraid to commit to something if we are not certain that we have capacities to achieve it)
 
-The process is being worked out at the moment, and we hope to make a sample inventory and a template available shortly. This will also be something that can be articulated with academic institutions.  
+There is a guide for how to conduct the inventory and groups will have the support of the Inventory and Climate Agenda Working Group. This working group also has support from academic institutions.  
+
+The level of complexity will depend on the region and local context. Nevertheless, we are all learning together and as such there is room for different levels of knowledge and capacities, so all you need is the will and energy to do it, and we will be there to help you.  
 
 ### 15. What is the advantage of focusing on infrastructures?
 
@@ -103,6 +105,8 @@ We are aware that shutting down polluting infrastructures is not sufficient. We 
 ### 16.  What is the purpose of the Climate Agenda that is to be produced?
 
 The climate agenda is an action plan for shutdown, reset and transition designed by communities, movements, and organisations working on the ground. The agenda is based on the territorial inventory and climate justice demands, aiming to set us on track for staying below 1.5ºC global warming by 2100.  
+
+This is clearly an ambitious undertaking, and we are aware that we are only at the beginning. We see the Glasgow Agreement as a new attempt at looking strategically at how we can advance as a movement, and of course articulate with other components of the movement, such that we can actually provide plans that outline pathways to success, given the understanding that we are living in the decisive decade for preventing irreversible climate chaos.  
 
 ### 17. Why is the focus/commitment on civil disobedience and non-cooperation?
 

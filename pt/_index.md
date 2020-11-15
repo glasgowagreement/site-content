@@ -12,15 +12,12 @@ O objetivo do [Acordo de Glasgow](./agreement) é recuperar a iniciativa dos gov
 
 Qualquer movimento ou organização social, pequena ou grande, local, regional, nacional ou internacional, pode participar, exceto partidos políticos, empresas comerciais e igrejas (grupos religiosos podem participar). Não é necessário que a organização esteja legalmente registada no seu país para participar.
 
-As organizações irão assinar e comprometer-se a participar activamente no Acordo de Glasgow na cerimónia de assinatura no dia 16 de Novembro e será um evento online que faz parte da [Conferência_From the Ground Up!_](https://www.facebook.com/events/1463215500536387/).
+O teu grupo pode-se juntar ao Acordo de Glasgow a qualquer altura! Só tem que preencher e submeter o [formulário de contacto](./contact).
 
-Para se juntar ao Acordo de Glasgow deverá preencher o [formulário de contacto](contact) e participar na cerimónia de assinatura.  
+{{< icon-title "dark" "question" "Queres saber mais?">}}
 
-{{< icon-title "dark" "chat" "Webinars" "Introdutórios">}}
-
-Todas as quartas-feiras às 14h00 UTC há um webinar online introdutório em inglês para explicar o Acordo de Glasgow e como participar. Este acontece via BigBlueButton:  
-
-**[meet.nixnet.services/b/gla-cpr-mz2](https://meet.nixnet.services/b/gla-cpr-mz2)**  
-
-Junte-se e convide outros grupos de justiça climática ou social!  
-Também temos webinars periódicos em várias linguas.
+Podes encontrar mais informação nas [Perguntas Frequentes](./faq) ou assistindo aos nossos webinars:
+- Para onde vai o movimento pela Justiça Climática?
+- Introdução ao Acordo de Glasgow: O nosso plano
+- Inventários de emissões como uma ferramenta de acção! Inventários e Agendas Climáticas da base
+- O que encerrar e como

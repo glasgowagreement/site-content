@@ -5,6 +5,8 @@ date: "2020-11-15"
 updated: true
 ---
 
-Existem, actualmente, {{< organisations_count >}} organizações a participar no processo do Acordo de Glasgow. A listagem seguinte é composta por todas as que deram autorização explícita para serem publicamente associadas à campanha. Como tal, nem todas as organizações participantes estão mencionadas.  
+Globalmente, mais de {{< organisations_count >}} organizações comprometeram-se com o [Acordo de Glasgow](../agreement)!. Se te quiseres juntar a nós, preenche e submete o [formulário de contacto](../contact).  
+
+Está é a lista das que decidiram participar:  
 
 {{< organisations >}}

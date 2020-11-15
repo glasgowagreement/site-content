@@ -5,6 +5,8 @@ date: "2020-11-15"
 updated: true
 ---
 
-There are currently {{< organisations_count >}} organisations participating in the Glasgow Agreement process. Those who have given explicit consent to be publicly associated with the campaign are listed below. As such, not every participating organisation is listed here at this time.  
+We are more than {{< organisations_count >}} organisations from around the world that have committed to the [Glasgow Agreement](../agreement)! If you would like to join us, please fill and submit the [contact form](../contact).  
+
+Below is a list of those participating publicly:  
 
 {{< organisations >}}

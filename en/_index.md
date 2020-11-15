@@ -12,15 +12,12 @@ The purpose of the [Glasgow Agreement](./agreement) is to reclaim the initiative
 
 Any social movement or organisation, small or large, local, regional, national, or international, can join, except for political parties, commercial companies and churches (religious groups can join). It is not necessary that your organisation be legally registered in your country for you to participate.  
 
-Organisations will sign and commit to the Glasgow Agreement at the signature ceremony on 16th November, an online event part of the [_From the Ground Up!_ Conference](https://www.facebook.com/events/1463215500536387/).  
+Your organisation can join the Glasgow Agreement at any time! To do so, please fill and submit the [contact form](./contact).  
 
-To join the Glasgow Agreement, you should fill and submit the [contact form](./contact) as well as attend the signature ceremony.  
+{{< icon-title "dark" "question" "Would you like to know more?">}}
 
-{{< icon-title "dark" "chat" "Introductory" "Webinars">}}
-
-There are weekly English webinars at Wednesday 2PM UTC to explain the Glasgow Agreement and how to get involved. The webinars currently take place on BigBlueButton:  
-
-**[meet.nixnet.services/b/gla-cpr-mz2](https://meet.nixnet.services/b/gla-cpr-mz2)**  
-
-Feel free to join us, and/or invite other social or climate justice organisations!  
-We also have recurrent webinars in various languages.  
+You can find more information in our [FAQ](./faq) or by watching our previously held webinars:
+- Where's the Climate Justice Movement going?
+- Introduction to Glasgow Agreement: A plan of our own
+- Emission inventories as tools for action! Inventories and Climate Agendas from below
+- What to Shut Down and how
