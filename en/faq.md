@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 icon: "light/question"
-date: "2020-10-24"
+date: "2020-11-15"
 updated: true
 toc: true
 ---
