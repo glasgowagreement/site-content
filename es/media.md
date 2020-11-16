@@ -1,5 +1,5 @@
 ---
-title: "Media"
+title: "Medio"
 icon: "light/chat"
 date: "2020-11-15"
 updated: true
