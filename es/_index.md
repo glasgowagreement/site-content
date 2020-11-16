@@ -10,16 +10,12 @@ El propósito del [Acuerdo de Glasgow](./agreement) trata de recoger la iniciati
 
 Cualquier movimiento social u organización, grande o pequeña, local, regional o internacional, puede unirse, excepto los partidos políticos, compañías comerciales e iglesias (sí pueden unirse grupos religiosos). No es necesario que vuestra organización esté registrada legalmente en vuestro país.  
 
-Las organizaciones van a firmar y comprometerse a participar activamente en el Acuerdo de Glasgow en la ceremonia de firma en el día 16 de noviembre, un evento online parte de la [Conferencia_From the Ground Up!_](https://www.facebook.com/events/1463215500536387/).
+¡Su grupo puede unirse al Acuerdo de Glasgow en cualquier momento! Sólo tiene que rellenar y enviar el [formulario de contacto](./contact).  
 
-Para unirse al proceso del Acuerdo de Glasgow debe rellenar el [formulario en contacto](contact) así como participar en la ceremonia de firma.  
+{{< icon-title "dark" "question" "¿Desea saber más?">}}
 
-{{< icon-title "dark" "chat" "Seminarios" "web introductorios">}}
-
-Hay seminarios web en inglés semanales, los miércoles a las 14:00 UTC, para explicar el Acuerdo de Glasgow y cómo involucrarse. La reunión de BigBlueButton es siempre la misma:  
-
-**[meet.nixnet.services/b/gla-cpr-mz2](https://meet.nixnet.services/b/gla-cpr-mz2)**  
-
-
-Sentíos libres de uniros y/o invitar a otras organizaciones por la justicia social o la justicia climática.  
-También tenemos seminarios web periódicos en otros idiomas.  
+Puede encontrar más información en la sección de las [preguntas frecuentes](./faq) o viendo nuestros seminarios web anteriores:
+- ¿Hacia dónde va el movimiento por la Justicia Climática?
+- Introducción al Acuerdo de Glasgow: un plan propio
+- ¡Los inventarios de emisiones como herramientas para actuar! Inventarios y agendas climáticas
+- Qué parar y cómo

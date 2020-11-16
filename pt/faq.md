@@ -16,7 +16,7 @@ O objetivo do Acordo de Glasgow é recuperar a iniciativa dos governos e institu
 ### 2. Quais as organizações que estão por trás do Acordo de Glasgow?
 
 
-Globalmente, mais de {{< organisations_count >}} organizações comprometeram-se com o Acordo de Glasgow[hyperlink for agreement section]! Podes consultar [aqui](../organisations) a lista das que decidiram participar publicamente.  
+Globalmente, mais de {{< organisations_count >}} organizações comprometeram-se com o [Acordo de Glasgow](../agreement)! Podes consultar [aqui](../organisations) a lista das que decidiram participar publicamente.  
 
 Esta proposta foi apresentada pela primeira vez numa reunião do Climáximo, em Portugal, em dezembro de 2019. Posteriormente, foi apresentada na reunião do By2020WeRiseUp, na Península Ibérica (Espanha e Portugal), em fevereiro de 2020, e na reunião do By2020WeRiseUp em Bruxelas, no início de março. Outros ativistas de organizações e movimentos de bases de todo o mundo foram consultados no primeiro rascunho.  
 

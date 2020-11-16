@@ -14,9 +14,11 @@ El propósito del Acuerdo de Glasgow trata de recoger la iniciativa de los gobie
 
 ### 2. ¿Qué organizaciones se encuentran detrás del Acuerdo de Glasgow?
 
-Hasta ahora, al menos de {{< organisations_count >}} organizaciones han confirmado su participación en el proceso. La propuesta por el Acuerdo de Glasgow fue presentado por la primera vez a la reunión de By2020WeRiseUp en Iberia (España y Portugal), en febrero 2020 y a la reunión de By2020WeRiseUp en Bruselas a principios de marzo. Activistas de organizaciones y movimientos de base de todo el mundo fueron consultadxs sobre el primer borrador.  
+¡Más de {{< organisations_count >}} organizaciones de todo el mundo se comprometieron con el [Acuerdo de Glasgow](../agreement)! [Aquí](../organisations) puede encontrar una lista de los que participan en ello.
 
-Este fue, de hecho, desde donde empezamos a trabajar, pero el texto final será un producto de las discusiones con todas aquellas otras organizaciones que decidan participar en el proceso. Los nombres de las organizaciones que participen solo serán públicas si estas dan su expreso consentimiento. Las únicas organizaciones que estarán conectadas públicamente a este evento serán aquellas que lo firmen cuando haya un texto final.  
+La propuesta por el Acuerdo de Glasgow fue presentado por la primera vez a la reunión de By2020WeRiseUp en Iberia (España y Portugal), en febrero 2020 y a la reunión de By2020WeRiseUp en Bruselas a principios de marzo. Activistas de organizaciones y movimientos de base de todo el mundo fueron consultadxs sobre el primer borrador.  
+
+Nuestra primera asamblea tuvo lugar a finales de marzo y desde entonces, el Acuerdo de Glasgow fue construido por decenas de organizaciones de todo el mundo, con procesos claros y abiertos, donde el único criterio de participación era la voluntad. Nuestra discusión política fue franca y abierta, convergimos donde pudimos y divergimos donde tuvimos que hacerlo, para llegar a nuestro acuerdo final.  
 
 ### 3. ¿Por qué se llama Acuerdo de Glasgow?
 
@@ -38,9 +40,9 @@ Sí, tu organización puede formar parte del Acuerdo, siempre y cuando no se opo
 
 ### 7. ¿Cómo puedo unirme al Acuerdo de Glasgow?
 
-Si tu organización quiere firmar y comprometerse a participar activamente en el Acuerdo de Glasgow, debe rellenar el [formulario en contacto](../contact) así como participar en la ceremonia de firma. La ceremonia va a tener lugar en el día 16 de noviembre y será un evento online parte de la [Conferencia *From the Ground Up!*](https://www.facebook.com/events/1463215500536387/).  
+Si tu organización quiere firmar y comprometerse a participar activamente en el Acuerdo de Glasgow, debe rellenar el [formulario en contacto](../contact).
 
-Después del relleno del formulario, enviaremos un paquete de bienvenida y añadiremos tu email a nuestros canales de comunicación.  
+Una vez que haya enviado el formulario de contacto, le enviaremos un kit de bienvenida y agregaremos su correo electrónico a nuestros canales de distribución y comunicación.  
 
 ## ¿Cómo funciona?
 
@@ -92,7 +94,9 @@ El inventario consistirá en una lista de las principales fuentes de emisiones d
 
 ### 14. ¿Es la producción del inventario un ejercicio complicado? (No estamos seguros de poder comprometernos a algo si luego no tenemos las capacidades de lograrlo).
 
-El proceso de producción de los inventarios está siendo pensado en estos momentos, y esperamos poder ofrecer un inventario tipo y una plantilla pronto. Esto también será algo que pueda ser articulado con la ayuda de instituciones académicas.  
+Hay una guía detallada de cómo hacer el inventario del Acuerdo de Glasgow y todos los grupos recibirán el apoyo del Grupo de Trabajo de Inventario y Agenda Climática, que es un grupo de trabajo permanente. Este grupo de trabajo también reunirá instituciones académicas.  
+
+El nivel de complejidad dependerá de la región y el contexto local. Sin embargo, todos estamos aprendiendo juntos y hay espacio para diferentes conocimientos y capacidades, por lo que lo único que necesitan ustedes es voluntad y energía y estaremos allí para ayudarles.  
 
 ### 15. ¿Qué ventaja ofrece el foco en las infraestructuras?
 
@@ -101,7 +105,10 @@ Cuando las instituciones producen sus proyectos por el clima, se dividen el porc
 Estamos conscientes de que cerrar las infraestructuras contaminantes no son suficientes. Necesitamos una transición justa que incluye construyendo alternativas. A medida que cerramos los instalaciones existentes, infraestructuras, plantas y/o las industrias de combustibles fósiles, aumentaremos la presión política, social y económica de una transición justa.  
 
 ### 16. ¿Cuál es el objetivo de la Agenda Climática que va a ser creada?
-La Agenda Climática es un plan de acción para una transición justa a través de cierre y reestructuración, creado por comunidades, movimientos y organizaciones que hacen trabajo de campo. La Agenda es basada en el inventario territorial y en exigencias de justicia climática, con el objetivo de nos poner en le rumbo de mantener el calentamiento globar por debajo de los 1.5ºC en 2100.
+
+La Agenda Climática es un plan de acción para una transición justa a través de cierre y reestructuración, creado por comunidades, movimientos y organizaciones que hacen trabajo de campo. La Agenda es basada en el inventario territorial y en exigencias de justicia climática, con el objetivo de nos poner en le rumbo de mantener el calentamiento globar por debajo de los 1.5ºC en 2100.  
+
+Evidentemente, se trata de una empresa ambiciosa y sabemos que estamos apenas comenzando. Consideramos el Acuerdo de Glasgow como un nuevo intento de mirar estratégicamente cómo podemos avanzar como movimiento y, obviamente, articularnos con otros componentes del movimiento para que podamos realmente proporcionar planes para ganar, ya que nos damos cuenta de que estamos viviendo en una década decisiva para evitar que el caos climático se afiance definitivamente.  
 
 ### 17. ¿A qué se debe el foco en la desobediencia civil y la no-cooperación?
 
