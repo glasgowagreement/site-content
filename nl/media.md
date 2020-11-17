@@ -1,7 +1,7 @@
 ---
 title: "Media"
 icon: "light/chat"
-date: "2020-11-15"
+date: "2020-11-17"
 updated: true
 ---
 
@@ -16,3 +16,8 @@ Dit is wat wij en anderen hebben gezegd over de Glasgow-overeenkomst.
 **META, European Environmental Bureau** - [A climate of dissent: From campaigning to direct action](https://meta.eeb.org/2020/06/25/from-climate-campaigning-to-direct-action/)  
 **Global Ecosocialist Network** - [Into Our Own Hands](http://www.globalecosocialistnetwork.net/2020/10/27/into-our-own-hands/)  
 **The Herald Scotland** - [More than 70 groups sign up for action including civil disobedience to fight for climate justice in Glasgow Agreement](https://www.heraldscotland.com/news/18860182.70-groups-sign-action-including-civil-disobedience-fight-climate-justice-glasgow-agreement/)  
+**Common Dreams** - [Glasgow Agreement, A Plan of Our Own](https://www.commondreams.org/views/2020/11/16/glasgow-agreement-plan-our-own)  
+**Ecoticias.com** - [Acuerdo de Glasgow: una iniciativa dirigida a realizar agendas climáticas nacionales](https://www.ecoticias.com/cambio-climatico/206131/Acuerdo-Glasgow-iniciativa-dirigida-realizar-agendas-climaticas-nacionales)  
+**Novethic** - [Face au report de la COP26, des évènements alternatifs sont organisés partout dans le monde pour maintenir la pression](https://www.novethic.fr/actualite/environnement/climat/isr-rse/malgre-le-report-de-la-cop26-des-evenements-alternatifs-sont-organises-partout-dans-le-monde-pour-lancer-le-compte-a-rebours-149198.html)  
+**Tercera Informacion** - [Arranca el Acuerdo de Glasgow-Compromiso Climático de los Pueblos](https://www.tercerainformacion.es/articulo/internacional/16/11/2020/arranca-el-acuerdo-de-glasgow-compromiso-climatico-de-los-pueblos/)  
+**Europa Press** - [Juventud Por El Clima firma el Acuerdo de Glasgow y se une a más de 70 iniciativas para recortar emisiones globales](https://amp.europapress.es/sociedad/medio-ambiente-00647/noticia-juventud-clima-firma-acuerdo-glasgow-une-mas-70-iniciativas-recortar-emisiones-globales-20201116144851.html)  
