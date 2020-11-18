@@ -17,7 +17,7 @@ Your organisation can join the Glasgow Agreement at any time! To do so, please f
 {{< icon-title "dark" "question" "Would you like to know more?">}}
 
 You can find more information in our [FAQ](./faq) or by watching our previously held webinars:
-- Where's the Climate Justice Movement going?
-- Introduction to Glasgow Agreement: A plan of our own
-- Emission inventories as tools for action! Inventories and Climate Agendas from below
-- What to Shut Down and how
+- [Where's the Climate Justice Movement going?](https://www.facebook.com/peoplesclimatecommitment/videos/2653423964896375/)
+- Introduction to Glasgow Agreement: A plan of our own (soon available)
+- [Emission inventories as tools for action! Inventories and Climate Agendas from below](https://www.facebook.com/peoplesclimatecommitment/videos/358312655441148/)
+- What to Shut Down and how (soon available)

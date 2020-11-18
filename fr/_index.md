@@ -15,7 +15,7 @@ Votre groupe peut adhérer à l'Accord de Glasgow à tout moment! Il vous suffit
 {{< icon-title "dark" "question" "Pour en savoir plus?">}}
 
 Vous trouverez plus d'informations sur la [FAQ](./faq) ou en visionant nos webinaires précédents:
-- Où va le mouvement pour la justice climatique?
-- Introduction à l'accord de Glasgow: Un plan qui nous est propre
-- Les inventaires d'émissions comme outils d'action! Inventaires et Agendas climatiques élaborés par la base.
-- Que faut-il arrêter et comment?
+- [Où va le mouvement pour la justice climatique?](https://www.facebook.com/peoplesclimatecommitment/videos/2653423964896375/)
+- Introduction à l'accord de Glasgow: Un plan qui nous est propre (bientôt disponible)
+- [Les inventaires d'émissions comme outils d'action! Inventaires et Agendas climatiques élaborés par la base.](https://www.facebook.com/peoplesclimatecommitment/videos/358312655441148/)
+- Que faut-il arrêter et comment? (bientôt disponible)

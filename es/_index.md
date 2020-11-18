@@ -15,7 +15,7 @@ Cualquier movimiento social u organización, grande o pequeña, local, regional 
 {{< icon-title "dark" "question" "¿Desea saber más?">}}
 
 Puede encontrar más información en la sección de las [preguntas frecuentes](./faq) o viendo nuestros seminarios web anteriores:
-- ¿Hacia dónde va el movimiento por la Justicia Climática?
-- Introducción al Acuerdo de Glasgow: un plan propio
-- ¡Los inventarios de emisiones como herramientas para actuar! Inventarios y agendas climáticas
-- Qué parar y cómo
+- [¿Hacia dónde va el movimiento por la Justicia Climática?](https://www.facebook.com/peoplesclimatecommitment/videos/2653423964896375/)
+- Introducción al Acuerdo de Glasgow: un plan propio (pronto disponible)
+- [¡Los inventarios de emisiones como herramientas para actuar! Inventarios y agendas climáticas](https://www.facebook.com/peoplesclimatecommitment/videos/358312655441148/)
+- Qué parar y cómo (pronto disponible)
