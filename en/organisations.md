@@ -1,7 +1,7 @@
 ---
 title: "Participating Organisations"
 icon: "light/community"
-date: "2020-12-01"
+date: "2020-12-05"
 updated: true
 ---
 
