@@ -13,4 +13,3 @@ For any other enquiries, please send your correspondence to:
 glasgowagreement@riseup.net  
 
 {{< form "https://framaforms.org/join-the-glasgow-agreement-1592865726" >}}
-
