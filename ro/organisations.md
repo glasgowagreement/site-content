@@ -1,7 +1,7 @@
 ---
 title: "Organizații participante"
 icon: "light/community"
-date: "2021-01-18"
+date: "2021-01-19"
 updated: true
 ---
 
