@@ -12,4 +12,4 @@ Si su organización desea juntarse al Acuerdo de Glasgow, por favor rellene el s
 Para cualquier otra consulta, envíe un correo electrónico a:  
 glasgowagreement@riseup.net  
 
-{{< form "https://framaforms.org/unirse-a-acuerdo-de-glasgow-1592923221" >}}
+{{< form "https://framaforms.org/unirse-al-acuerdo-de-glasgow-1592923221" >}}
