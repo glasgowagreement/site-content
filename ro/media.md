@@ -22,3 +22,4 @@ Iată ce am spus noi și alții despre Acordul de la Glasgow.
 **Tercera Informacion** - [Arranca el Acuerdo de Glasgow-Compromiso Climático de los Pueblos](https://www.tercerainformacion.es/articulo/internacional/16/11/2020/arranca-el-acuerdo-de-glasgow-compromiso-climatico-de-los-pueblos/)  
 **Europa Press** - [Juventud Por El Clima firma el Acuerdo de Glasgow y se une a más de 70 iniciativas para recortar emisiones globales](https://amp.europapress.es/sociedad/medio-ambiente-00647/noticia-juventud-clima-firma-acuerdo-glasgow-une-mas-70-iniciativas-recortar-emisiones-globales-20201116144851.html)  
 **Jornal Dia Dia** - [A sociedade mundial retoma o poder e assume um compromisso pelo clima](http://jornaldiadia.com.br/2020/2020/11/18/a-sociedade-mundial-retoma-o-poder-e-assume-um-compromisso-pelo-clima/)  
+**Manuel Baquedano** - [Hacia un compromiso climático de los pueblos](https://manuelbaquedano.cl/hacia-un-compromiso-climatico-de-los-pueblos/)  
