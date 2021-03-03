@@ -15,7 +15,7 @@ title: "Brand"
 ![Icon SVG](/logo/glasgowagreement_icon.svg)  
 [Icon SVG](/logo/glasgowagreement_icon.svg)  
 [Icon ICO](/logo/glasgowagreement_icon.png)  
-[Favicon in various formats](/logo/glasgowagreement_favicon.zip)  
+[Favicon in various sizes](/logo/glasgowagreement_favicon.zip)  
 
 
 # COLOURS
