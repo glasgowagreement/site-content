@@ -6,7 +6,7 @@ title: "Inventário - Portugal"
 
 ## Portugal
 
-[![](/inventory/PT/inventario_PT_capa.jpg)](/inventory/PT/inventario_PT.pdf)  
-[inventario_PT.pdf](/inventory/PT/inventario_PT.pdf)  
-[inventario_PT_6ENJC.pptx](/inventory/PT/inventario_PT_6ENJC.pptx)  
-[inventario_PT_v11.xlsx](/inventory/PT/inventario_PT_v11.xlsx)  
+[![](/inventory/PT/inventario_PT_capa.jpg)](/inventory/PT/Inventario_PT_Acordo_Glasgow_Relatorio.pdf)  
+[Inventario_PT_Acordo_Glasgow_Relatorio.pdf](/inventory/PT/Inventario_PT_Acordo_Glasgow_Relatorio.pdf)  
+[Base_dados_completa_Inventario_PT_V12.zip](/inventory/PT/Base_dados_completa_Inventario_PT_V12.zip)  
+[Imagens_Inventario_Portugal.zip](/inventory/PT/Imagens_Inventario_Portugal.zip)  
