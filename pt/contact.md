@@ -12,4 +12,4 @@ Se a tua organização se quer juntar ao Acordo de Glasgow, por favor preenche o
 Para qualquer outra questão, por favor contacta nos via email para:  
 glasgowagreement@riseup.net  
 
-{{< form "https://framaforms.org/juntar-ao-acordo-de-glasgow-1592924635" >}}
+{{< form "https://framaforms.org/juntar-se-ao-acordo-de-glasgow-1592924635" >}}
