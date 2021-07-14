@@ -4,15 +4,15 @@ title: "Collapse Total"
 
 ## Collapse Total
 
-### *We need to collapse Total to avoid total collapse*
+### We need to collapse Total to avoid total collapse
 
-*On the 16th to 18th of November, 2021, we, the Glasgow Agreement, will take on multinational Total all over the world in decentralized direct actions.*  
+On the 16th to 18th of November, 2021, we, the Glasgow Agreement, will take on multinational Total all over the world in decentralized direct actions.  
 
 # Call to Action
 
 For more than half a century, governments, investors and executives of corporations like Total have been fully aware of the consequences of their decisions on widespread biodiversity loss and the destruction of all forms of life. 50 years of scientific reports and citizen mobilization; 50 years of broken promises; disinformation, greenwashing, lobbying. Among others, Total is one of the key actors in this destruction. Whilst humanity is reaching the limits of its own planet, they refuse to change.  
 
-It’s time for people to take matters into their own hands, to address the need to collectively cut greenhouse gas emissions and keep fossil fuels in the ground.  
+It’s time for people to take matters into their own hands the need to collectively cut greenhouse gas emissions and keep fossil fuels in the ground.  
 
 We will not stand by and watch history, we will create our history.  
 
