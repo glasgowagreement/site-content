@@ -22,7 +22,7 @@ We need to collapse Total to avoid total collapse.
 
 **We call on all organisations from the climate justice movement and beyond to collectively disrupt Total's operations\* on the 16th to 18th of November, using a diverse array of tactics for powerful, creative and compassionate actions.**  
 
-**Join the Global Day of Action Collapse Total by subscribing the call to action [here]() or by writing to glasgowagreement@riseup.net**  
+**Join the Global Day of Action Collapse Total by subscribing the call to action [here](https://framaforms.org/collapse-total-call-to-action-1627950762) or by writing to glasgowagreement@riseup.net**  
 
 \* *If Total does not operate in your territory you can still join the call by conducting direct action to other major company/infrastructure present in your territory.*  
 
