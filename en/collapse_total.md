@@ -35,7 +35,3 @@ We understand that civil society must have its own plan of action, and no longer
 You can sign and join the Glasgow Agreement [here](https://glasgowagreement.net/en/contact/).  
 
 #### We are the ones we have been waiting for.
-
-# SO, WHY TOTAL?
-
-Soon we will add further information about Total and why we need to collapse Total to avoid total collapse.  
