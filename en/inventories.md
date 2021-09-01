@@ -7,9 +7,6 @@ title: "Emissions Inventories"
 ## Ireland
 {{< inventory "IE" >}}
 
-## Netherlands
-{{< inventory "NL" >}}
-
 ## Portugal
 {{< inventory "PT" >}}
 
@@ -33,8 +30,8 @@ title: "Emissions Inventories"
 ### Mali
 ### Mexico
 ### Morocco
+### Netherlands
 ### Peru
-### South Africa
 ### South Africa
 ### Switzerland
 ### USA
