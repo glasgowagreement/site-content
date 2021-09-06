@@ -2,7 +2,7 @@
 title: "Collapse Total"
 ---
 
-## Collapse Total
+{{< collapse_total_logo >}}
 
 ### Necesitamos colapsar Total para evitar un colapso total
 

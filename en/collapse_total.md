@@ -2,7 +2,7 @@
 title: "Collapse Total"
 ---
 
-## Collapse Total
+{{< collapse_total_logo >}}
 
 ### We need to collapse Total to avoid total collapse
 

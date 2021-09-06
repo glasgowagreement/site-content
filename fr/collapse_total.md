@@ -2,6 +2,8 @@
 title: "Collapse Total"
 ---
 
+{{< collapse_total_logo >}}
+
 ## Effondrement de Total
 
 ### Nous devons faire s'effondrer Total pour éviter un effondrement total
