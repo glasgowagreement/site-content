@@ -14,6 +14,26 @@ Any social movement or organisation, small or large, local, regional, national, 
 
 Your organisation can join the Glasgow Agreement at any time! To do so, please fill and submit the [contact form](./contact).  
 
+---
+
+{{< icon-title "dark" "protest" "Collapse Total">}}
+
+On the 16th to 18th of November, 2021, we, groups that signed the Glasgow Agreement - Peoples' Climate Commitment, will take on multinational Total all over the world in decentralized direct actions and acts of non-cooperation.  
+
+We call everyone to join us and collectively disrupt Total's operations using a diverse array of tactics for powerful, creative and compassionate actions to stop one of the most powerful and ecocidal actors on the Planet.  
+
+**We need to collapse Total to avoid total collapse.**
+
+Read the call to action [here](https://glasgowagreement.net/en/collapse_total/)  
+
+Subscribe to the call to action for more updates [here](https://framaforms.org/collapse-total-call-to-action-1627950762)  
+
+We will not stand by and watch history, we will create our history.  
+
+{{< collapse_total_logo >}}
+
+---
+
 {{< icon-title "dark" "question" "Would you like to know more?">}}
 
 ### Ask Us Anything Calls
