@@ -8,9 +8,9 @@ On the 16th to 18th of November, 2021, we, groups that signed the Glasgow Agreem
 
 We call everyone to join us and collectively disrupt Total's operations using a diverse array of tactics for powerful, creative and compassionate actions to stop one of the most powerful and ecocidal actors on the Planet.  
 
-**We need to collapse Total to avoid total collapse.**
+**We need to collapse Total to avoid total collapse.**  
 
-Read the call to action [here](https://glasgowagreement.net/en/collapse_total/)  
+Read the call to action [here](collapse_total/)  
 
 Subscribe to the call to action for more updates [here](https://framaforms.org/collapse-total-call-to-action-1627950762)  
 

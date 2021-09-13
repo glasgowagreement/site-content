@@ -16,7 +16,7 @@ Es hora de que la gente tome el asunto en sus propias manos: la necesidad de red
 
 No nos mantendremos al margen y observaremos la historia, crearemos nuestra historia.  
 
-[170 organizaciones de 54 países](https://glasgowagreement.net/es/organisations/) han firmado el Acuerdo de Glasgow. Ahora, hacemos un llamado a todos por un día global de acción directa descentralizada y actos de no cooperación para detener a uno de los actores más poderosos y ecocidas del planeta.  
+[{{< organisations_count >}} organizaciones de 54 países](../organisations/) han firmado el Acuerdo de Glasgow. Ahora, hacemos un llamado a todos por un día global de acción directa descentralizada y actos de no cooperación para detener a uno de los actores más poderosos y ecocidas del planeta.  
 
 Necesitamos colapsar Total para evitar un colapso total.  
 
@@ -28,10 +28,10 @@ Necesitamos colapsar Total para evitar un colapso total.
 
 # Cambio Sistémico y Acuerdo de Glasgow
 
-El Acuerdo de Glasgow tiene como objetivo recuperar la iniciativa de los gobiernos y las instituciones internacionales mediante la creación de una herramienta alternativa de acción (inventario de emisiones y agenda climática) y un espacio para la  estrategia y coordinación para el movimiento por la justicia climática. Somos más de 170 organizaciones, unidas por el entendimiento de que se necesita un cambio sistémico, así como una definición común de [justicia climática](https://glasgowagreement.net/es/agreement/).  
+El Acuerdo de Glasgow tiene como objetivo recuperar la iniciativa de los gobiernos y las instituciones internacionales mediante la creación de una herramienta alternativa de acción (inventario de emisiones y agenda climática) y un espacio para la  estrategia y coordinación para el movimiento por la justicia climática. Somos más de 170 organizaciones, unidas por el entendimiento de que se necesita un cambio sistémico, así como una definición común de [justicia climática](../agreement/).  
 
 Entendemos que la sociedad civil debe tener su propio plan de acción y no esperar más a que los gobiernos y las instituciones internacionales actúen. Nuestro objetivo es utilizar una amplia gama de estrategias y tácticas, incluida la desobediencia civil, para lograr la reducción de emisiones necesaria para evitar un aumento de temperatura de 1,5ºC para el año 2100. Esta será la primera de muchas acciones diversas.  
 
-Puede firmar y unirse al Acuerdo de Glasgow [aquí](https://glasgowagreement.net/es/contact/).  
+Puede firmar y unirse al Acuerdo de Glasgow [aquí](../contact/).  
 
 #### Nosotros somos los que hemos estado esperando.

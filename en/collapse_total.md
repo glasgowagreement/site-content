@@ -16,7 +16,7 @@ It’s time for people to take matters into their own hands the need to collecti
 
 We will not stand by and watch history, we will create our history.  
 
-[170 organisations from 54 countries](https://glasgowagreement.net/en/organisations/) have signed the Glasgow Agreement. Now, we call on everyone for a global day of decentralized direct action and acts of non-cooperation to stop one of the most powerful and ecocidal actors on the Planet.  
+[{{< organisations_count >}} organisations from 54 countries](../organisations/) have signed the Glasgow Agreement. Now, we call on everyone for a global day of decentralized direct action and acts of non-cooperation to stop one of the most powerful and ecocidal actors on the Planet.  
 
 We need to collapse Total to avoid total collapse.  
 
@@ -28,10 +28,10 @@ We need to collapse Total to avoid total collapse.
 
 # Systemic Change and Glasgow Agreement
 
-The Glasgow Agreement aims to reclaim the initiative from governments and international institutions by creating an alternative tool for action (emmissions inventory and climate agenda) and a space for strategy and coordination for the climate justice movement. We are more than 170 organisations, united by the understanding that systemic change is needed as well as a common definition of [climate justice](https://glasgowagreement.net/en/agreement/).  
+The Glasgow Agreement aims to reclaim the initiative from governments and international institutions by creating an alternative tool for action (emmissions inventory and climate agenda) and a space for strategy and coordination for the climate justice movement. We are more than 170 organisations, united by the understanding that systemic change is needed as well as a common definition of [climate justice](../agreement/).  
 
 We understand that civil society must have its own plan of action, and no longer wait for governments and international institutions to act. We aim to use a vast array of strategies and tactics, including civil disobedience, to achieve the necessary emissions cuts to prevent a 1.5ºC temperature rise by 2100. This will be the first of many diverse actions.  
 
-You can sign and join the Glasgow Agreement [here](https://glasgowagreement.net/en/contact/).  
+You can sign and join the Glasgow Agreement [here](../contact/).  
 
 #### We are the ones we have been waiting for.
