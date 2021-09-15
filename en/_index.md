@@ -44,16 +44,16 @@ Getting involved with the Glasgow Agreement can be as intimidating and confusing
 
 At these short, one hour calls we'll have a short presentation of the Glasgow Agreement, a summary of the last assembly and finally an open section where you can ask all the questions you ever wanted! These calls will be open to organisations that have just joined the Agreement and are trying to understand how it works, organisations that are considering joining but would like to know more, and individuals who are part of the Agreement but cannot attend the assemblies.  
 
-The next session of Ask us Anything calls will take place on the **29th of May at 2PM GMT.**  
-Click [here](https://greenpeace.zoom.us/j/98182271606?pwd=dGdXanRjTTV6Um5URE1tcDI0NnZWdz09) to join the Zoom Meeting.  
-Meeting ID: **98182271606**  
-Passcode: **647747**  
+Join the call this month if you would like to know how your group can join the action Collpase Total!  
 
----
+The next sessions will take place on **Monday, September 20th**, one at **08h00 UTC**, and the second at **16h00 UTC**.  Both of the calls will be hosted in English, French and Spanish. (You can convert UTC to your time zone [here](https://www.worldtimebuddy.com/))
 
-Please feel free to attend if you have any questions or concerns about the process and organisations of the Glasgow Agreement
-We also encourage you to invite any groups or individuals you are in contact with who may want to know more about the Agreement and we can answer all the questions you need.
+Zoom Meeting ID: **92109307472**  
+Passcode: **722463**  
 
+Please feel free to attend if you have any questions or concerns about the process and organisations of the Glasgow Agreement.  
+
+We also encourage you to invite any groups or individuals you are in contact with who may want to know more about the Agreement and we can answer all the questions you need.  
 
 You can find more information in our [FAQ](./faq) or by watching our previously held webinars:
 - [Where's the Climate Justice Movement going?](https://www.facebook.com/peoplesclimatecommitment/videos/2653423964896375/)
