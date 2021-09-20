@@ -12,11 +12,6 @@ Focusing on one company within a specific time frame, allows the climate justice
 
 Fossil capitalism is a global system with highly articulated components that allow for it to absorb local shocks and disruption with minor adaptation or cosmetic changes. It needs to be shocked and disrupted globally for to be a meaningful impact.  
 
-In the context of internal conversations we can also add:  
-
-The purpose of this action is to establish a joint initiative that targets the same company across multiple continents, nations, projects and interests. Focusing on one company will allow us to assess our ability to magnify the impact of our actions through international coordination by measuring the actual effects of these actions, and their impact across the different interests and operations of the company.  
-
-
 ## 2. What kind of actions are you calling for?
 
 We are calling for powerful, creative and compassionate direct actions and acts of non-cooperation, focusing on Total's infrastructures around the world.  
