@@ -54,7 +54,7 @@ Can you write an article about why we need to collapse total to avoid total coll
 Please see how to coordinate your communication below!  
 
 
-## 6. Are there any coordination of communication and mobilization materials?
+## 6. Is there any coordination of communication and mobilization materials?
 
 Yes!  
 
