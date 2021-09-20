@@ -4,72 +4,72 @@ icon: "light/question"
 toc: true
 ---
 
-## 1. What is the purpose of this action? Why focusing in 1 company?
+## 1. What is the purpose of this action? Why focus on a single company?
 
-We understand that civil society must have its own plan of action to achieve the necessary emissions cuts, and no longer wait for governments and international institutions to act.  Stooping the fossil industry is a global problem, so we need to coordinate our actions globally to achieve the needed impact.  
+We understand that civil society must have its own plan of action to achieve the necessary emissions cuts, and no longer wait for governments and international institutions to act.  Stopping the fossil industry is a global problem, so we need to coordinate our actions globally to achieve the needed impact.  
 
-Focusing in one company on a specific time frame, allows the climate justice movement and beyond to establish a joint initiative that tackles that company across different continents, nations, projects and interests, disrupting it's operations.  
+Focusing on one company within a specific time frame, allows the climate justice movement and beyond to establish a joint initiative that tackles that company across different continents, nations, projects and interests, disrupting its operations.  
 
-Fossil capitalism is a global system with highly articulated components that allow for it to absorb local shocks and disruption with minor adaptation or cosmetic changes. It needs to be shocked and disrupted globally for meaningful impact.
+Fossil capitalism is a global system with highly articulated components that allow for it to absorb local shocks and disruption with minor adaptation or cosmetic changes. It needs to be shocked and disrupted globally for to be a meaningful impact.  
 
-In more internal conversations we can also add:  
+In the context of internal conversations we can also add:  
 
-The purpose of this action is to establish a joint initiative that tackles the same company across different continents, nations, projects and interests. Focusing on one company will allow us to test and perceive if we can magnify the impact of international coordinated actions by measuring actual effects of these actions, the impact across the different interests and operations of the company.  
+The purpose of this action is to establish a joint initiative that targets the same company across multiple continents, nations, projects and interests. Focusing on one company will allow us to assess our ability to magnify the impact of our actions through international coordination by measuring the actual effects of these actions, and their impact across the different interests and operations of the company.  
 
 
 ## 2. What kind of actions are you calling for?
 
 We are calling for powerful, creative and compassionate direct actions and acts of non-cooperation, focusing on Total's infrastructures around the world.  
 
-We invite you to read [here](../agreement/) the point 5 of Glasgow Agreement about political and economic non-cooperation.  
+We invite you to read [here](../agreement/) point 5. of the Glasgow Agreement, regarding political and economic non-cooperation.  
 
-You can also read [here](../faq/#15-what-is-the-advantage-of-focusing-on-infrastructures) what is the advantage of focusing on infrastructures.  
+You can also read [here](../faq/#15-what-is-the-advantage-of-focusing-on-infrastructures) regarding the advantage of focusing on infrastructures.  
 
 
 ## 3. What can I do?
 
-If you are an individual you can share the call with groups you are part of and with your networks; Write articles about Total; Share what others are doing (actions, campaigns, etc)  
+If you are an individual you can share the call with groups you are part of and within your networks; Write articles about Total; Share what others are doing (actions, campaigns, etc).  
 
-Can you help with design, with press contacts or finding funds fro groups that need support? Let us know by e-mail!  
+Can you help with design, with press contacts or finding funds for groups that need support? Let us know by email!  
 
-If you are an organization, join the call - do a direct action to disrupt Total’s operations! Moreover, share the call in your networks as well as share others’ actions :)  
+If you are an organization, join the call - mobilize a direct action to disrupt Total’s operations! Moreover, share the call within your network as well as the actions being carried out by other groups :)  
 
 
 ## 4. Total isn’t present in my group’s territory. How can we join the call to action?
 
-If Total does not operate in your territory you can still join the call by conducting direct action to other major infrastructure present in your territory :)  
+If Total does not operate in your territory you can still join the call by conducting direct action against another major company/infrastructure present in your territory :)  
 
-If you are part of Glasgow Agreement you might want to look to your territory inventory. Anyway shouldn’t be difficult to find infrastructures of fossil industry nearby.  
+If you are part of Glasgow Agreement you might want to look to your territory's inventory. In any case it should not be difficult to find fossil industry infrastructure in your area.  
 
-Note: in this case, please use in communication "Collapse [company name], to avoid total collapse" or "Collapse [company name] before [company name] collapse us".  
+*Note: In this case, please adapt your communication to "Collapse [company name], to avoid total collapse" or "Collapse [company name] before [company name] collapses us".*  
 
 
-## 5. My group is planning an action. And now what?  
+## 5. My group is planning an action. Now what?  
 
 Great!  
 
 Did you subscribe the call? Please do!  
 
-Is your action publicly announce? Share it with us so we can add to the website and share with all the other groups!  
+Is your action publicly announced? Share it with us so we can add it to the website and share with all the other groups!  
 
-Is your action outside of the days of action (from 16th to 18th)? Let us know by safe channels when it will be.  
+Is your action outside of the days of action (November 16th to 18th)? Let us know through secure channels when it will take place.  
 
-Can you write an article about why we need to collapse total to avoid total collapse? Please do it and send it!  
+Can you write an article about why we need to collapse total to avoid total collapse? If so please do and share it with us!  
 
-Please see how to coordinate communication bellow!  
+Please see how to coordinate your communication below!  
 
 
-## 6. Is there any coordination of communication and mobilization materials?
+## 6. Are there any coordination of communication and mobilization materials?
 
 Yes!  
 
-### About Social Media
+### Social Media
 
-In all post you do about the action – announcing you will do it, run up actions, the action itself,…  – please always put the action hashtags!  
+In all posts you make about the action – announcing your mobilization, the run up to the action, the action itself...  – please always include the action hashtags!  
 
-\#CollapseTotal  
-\#TotalCollapse  
-\#GlasgowAgreement  
+**\#CollapseTotal**  
+**\#TotalCollapse**  
+**\#GlasgowAgreement**  
 
 E.g:  
 
@@ -79,43 +79,43 @@ E.g:
 
 This way we all can share with each other what are we doing and boost each other!  
 
-Note: whenever you feel safe, also tag directly Total Company -> @TotalEnergies  
+Note: whenever you feel safe, also directly tag Total the company -> @TotalEnergies  
 
-We will compile all the actions in Glasgow Agreement social media (if any information is missing, let us know!).  
+We will compile all actions in Glasgow Agreement social media (if any information is missing, let us know!).  
 
-### About Mobi Materials and Action Materials
+### Mobi Materials and Action Materials
 
-Each action will be adapted to local context resulting in a diversity of actions. To show that we are all united have at least 1 banner with “Collapse Total” and "Glasgow Agreement" in your action. This can be the logo or the sentence “Collapse Total to Avoid Total Collapse”.  
+Each action will be adapted to local context resulting in a diversity of actions. To show that we are all united have at least one banner with “Collapse Total” and "Glasgow Agreement" in your action. This can be the logo or the sentence “Collapse Total to Avoid Total Collapse”.  
 
-If you want to, you can also have flags and stickers with collapse total and/or glasgow agreement. Soon we will have documents available to be printed.  
+If you want to, you can also have flags and stickers with Collapse Total and/or Glasgow Agreement. Soon we will have documents available to be printed.  
 
 You can find the logos and images [here](../brand/).  
 
-### About Action Photos and Videos
+### Action Photos and Videos
 
 Please send us around 3 photos of your action and a short video before 19th November!  
 
 We will do a wrap up video with all actions and add the photos to the website.  
 
-### About Press
+### Press
 
 We will send international press releases about the actions. If you/your group have international press contacts, please help us boost Collapse Total and share broadly the actions that will happen. Contact us by email.  
 
-All local/regional press will be cover by each organization. We would like if you could send us any press release you send related to Collapse Total.  
+All local/regional press will be covered by each organization. We would like it if you could forward us any press release you send related to Collapse Total.  
 
-Email: collapsetotal@glasgowagreement@riseup.net  
+Email: collapsetotal@glasgowagreement.net  
 
-### About Articles, Reports and Information
+### Articles, Reports and Information
 
-Did you/your group write an article about total or launched a report about it’s impacts? Are you fighting against a new project of Total that is not that know but should be? Share with us  so we can share with everyone!  
+Did you/your group write an article about Total or release a report about its impacts? Are you fighting against a new project of Total that is not well known but should be? Share it with us so we can share with everyone!  
 
 
-## 7. What kind of support is given?
+## 7. What kind of support is available?
 
-Glasgow Agreement is as great as the effort put by the member organizations.  
+The Glasgow Agreement is as great as the effort contributed by its member organizations.  
 
-Right now we don’t support financially actions - If you don’t know funds that can support you, we can send information about it.  
+Currently we do not provide financial support for actions - If you are unaware of any funds that can support you, we can send you information to help you find this.  
 
-If you need to connect with other groups: i) from your territory; ii) that are working in similar subjects; iii) to do a solidarity action; we can help making these connections!  
+If you need to connect with other groups: i) from your territory; ii) that are working in similar subjects; iii) to conduct an action in solidarity; we can help you make these connections!  
 
-Any request please say so by email and we will check if any member organization can address it!  
+If you have any requests please tell us by email and we will find out if any other member organization can address this for you!  

@@ -24,7 +24,7 @@ We need to collapse Total to avoid total collapse.
 
 **Join the Global Day of Action Collapse Total by subscribing the call to action [here](https://framaforms.org/collapse-total-call-to-action-1627950762) or by writing to glasgowagreement@riseup.net**  
 
-\* *If Total does not operate in your territory you can still join the call by conducting direct action to other major company/infrastructure present in your territory.*  
+\* *If Total does not operate in your territory you can still join the call by conducting direct action against another major company/infrastructure present in your territory.*  
 
 Join the next Ask Us Anything calls if you would like to know how your group can join this action! The next sessions will take place on **Monday, September 20th**, one at **08h00 UTC**, and the second at **16h00 UTC**.  Both of the calls will be hosted in English, French and Spanish. (You can convert UTC to your time zone [here](https://www.worldtimebuddy.com/))
 
@@ -45,24 +45,24 @@ You can sign and join the Glasgow Agreement [here](../contact/).
 
 ## [Questions about the action](../collapse_total_qna/)
 
-1. What is the purpose of this action? Why focusing in 1 company?
-2. What kind of actions are you calling for?
-3. What can I do?
-4. Total isn’t present in my group’s territory. How can we join the call to action?
-5. My group is planning an action. And now what?
-6. Is there any coordination of communication and mobilization materials?
-  About Social Media
-  About Mobi Materials and Action Materials
-  About Action Photos and Videos
-  About Press
-  About Articles, Reports and Information
-7. What kind of support is given?
+1. [What is the purpose of this action? Why focus on a single company?](../collapse_total_qna/#1-what-is-the-purpose-of-this-action-why-focus-on-a-single-company)
+2. [What kind of actions are you calling for?](../collapse_total_qna/#2-what-kind-of-actions-are-you-calling-for)
+3. [What can I do?](../collapse_total_qna/#3-what-can-i-do)
+4. [Total isn’t present in my group’s territory. How can we join the call to action?](../collapse_total_qna/#4-total-isn’t-present-in-my-group’s-territory.-how-can-we-join-the-call-to-action)
+5. [My group is planning an action. Now what?](../collapse_total_qna/#5-my-group-is-planning-an-action.-now-what)
+6. [Is there any coordination of communication and mobilization materials?](../collapse_total_qna/#6-is-there-any-coordination-of-communication-and-mobilization-materials)
+   - [Social Media](../collapse_total_qna/#social-media)
+   - [Mobi Materials and Action Materials](../collapse_total_qna/#mobi-materials-and-action-materials)
+   - [Action Photos and Videos](../collapse_total_qna/#action-photos-and-videos)
+   - [Press](../collapse_total_qna/#press)
+   - [Articles, Reports and Information](../collapse_total_qna/#articles-reports-and-information)
+7. [What kind of support is available?](../collapse_total_qna/#7-what-kind-of-support-is-available)
 
 ---
 
 ## Participating Organisations
 
-More than 30 organizations signed this call to action. Below is a list of those participating publicly:
+More than 30 organizations have signed onto this call to action. Below is a list of those participating publicly:
 
 - 350.org
 - AbibiNsroma Foundation
