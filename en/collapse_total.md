@@ -8,7 +8,7 @@ title: "Collapse Total"
 
 On the 16th to 18th of November, 2021, we, the Glasgow Agreement, will take on multinational Total all over the world in decentralized direct actions.  
 
-# Call to Action
+## Call to Action
 
 For more than half a century, governments, investors and executives of corporations like Total have been fully aware of the consequences of their decisions on widespread biodiversity loss and the destruction of all forms of life. 50 years of scientific reports and citizen mobilization; 50 years of broken promises; disinformation, greenwashing, lobbying. Among others, Total is one of the key actors in this destruction. Whilst humanity is reaching the limits of its own planet, they refuse to change.  
 
@@ -31,7 +31,7 @@ Join the next Ask Us Anything calls if you would like to know how your group can
 Zoom Meeting ID: **92109307472**  
 Passcode: **722463**  
 
-# Systemic Change and Glasgow Agreement
+## Systemic Change and Glasgow Agreement
 
 The Glasgow Agreement aims to reclaim the initiative from governments and international institutions by creating an alternative tool for action (emmissions inventory and climate agenda) and a space for strategy and coordination for the climate justice movement. We are more than 170 organisations, united by the understanding that systemic change is needed as well as a common definition of [climate justice](../agreement/).  
 
@@ -39,4 +39,49 @@ We understand that civil society must have its own plan of action, and no longer
 
 You can sign and join the Glasgow Agreement [here](../contact/).  
 
-#### We are the ones we have been waiting for.
+### We are the ones we have been waiting for.
+
+---
+
+## [Questions about the action](../collapse_total_qna/)
+
+1. What is the purpose of this action? Why focusing in 1 company?
+2. What kind of actions are you calling for?
+3. What can I do?
+4. Total isn’t present in my group’s territory. How can we join the call to action?
+5. My group is planning an action. And now what?
+6. Is there any coordination of communication and mobilization materials?
+  About Social Media
+  About Mobi Materials and Action Materials
+  About Action Photos and Videos
+  About Press
+  About Articles, Reports and Information
+7. What kind of support is given?
+
+---
+
+## Participating Organisations
+
+More than 30 organizations signed this call to action. Below is a list of those participating publicly:
+
+- 350.org
+- AbibiNsroma Foundation
+- Action for Nature
+- Agir pour la Securite et la Souveraineté Alimentaire
+- Association des jeunes visionnaires pour le développement du Congo
+- ATTAC ESPAÑA
+- BEIE
+- Climáximo
+- Farmers' Voice (Krisoker Sor)
+- FFF Lebanon
+- FFF Portugal
+- Innovovation pour le Développement et la Protection de l'Environnement
+- Kazdağı Doğal ve Kültürel Varlıkları Koruma Derneği-Kazdagi Association - Turkey
+- Missão Tabita
+- Plantemos Nativo ONG
+- SEPD asbl
+- XR France
+- XR Rutshuru
+- XR université de Goma
+- XR Waltham Forest
+- Youth for Climate Montluçon
