@@ -98,7 +98,7 @@ We will send international press releases about the actions. If you/your group h
 
 All local/regional press will be covered by each organization. We would like it if you could forward us any press release you send related to Collapse Total.  
 
-Email: collapsetotal@glasgowagreement.net  
+Email: collapsetotal@glasgowagreement.net | [PGP public key](../../pgp/collapse_total_public_key.asc)  
 
 ### Articles, Reports and Information
 
