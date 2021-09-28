@@ -26,11 +26,6 @@ We need to collapse Total to avoid total collapse.
 
 \* *If Total does not operate in your territory you can still join the call by conducting direct action against another major company/infrastructure present in your territory.*  
 
-Join the next Ask Us Anything calls if you would like to know how your group can join this action! The next sessions will take place on **Monday, September 20th**, one at **08h00 UTC**, and the second at **16h00 UTC**.  Both of the calls will be hosted in English, French and Spanish. (You can convert UTC to your time zone [here](https://www.worldtimebuddy.com/))
-
-Zoom Meeting ID: **92109307472**  
-Passcode: **722463**  
-
 ## Systemic Change and Glasgow Agreement
 
 The Glasgow Agreement aims to reclaim the initiative from governments and international institutions by creating an alternative tool for action (emmissions inventory and climate agenda) and a space for strategy and coordination for the climate justice movement. We are more than 170 organisations, united by the understanding that systemic change is needed as well as a common definition of [climate justice](../agreement/).  

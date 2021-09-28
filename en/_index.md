@@ -12,7 +12,7 @@ We call everyone to join us and collectively disrupt Total's operations using a 
 
 Read the call to action [here](collapse_total/)  
 
-Subscribe to the call to action for more updates [here](https://framaforms.org/collapse-total-call-to-action-1627950762)  
+Join the call to action and mobilize an action in your territory! Subscribe the call [here](https://framaforms.org/collapse-total-call-to-action-1627950762)  
 
 We will not stand by and watch history, we will create our history.  
 

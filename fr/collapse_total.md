@@ -37,3 +37,21 @@ Nous estimons que la société civile doit avoir son propre plan d'action, et ne
 Vous pouvez signer et rejoindre l'Accord de Glasgow [ici](../contact/).  
 
 #### Nous sommes celle et ceux que nous attendions.
+
+---
+
+
+## [Questions sur l'action](../collapse_total_qna/)
+1. [Quel est le but de cette action? Pourquoi se concentrer sur 1 entreprise?](../collapse_total_qna/#1-quel-est-le-but-de-cette-action-pourquoi-se-concentrer-sur-1-entreprise)
+2. [A quel type d’actions appeler vous?](../collapse_total_qna/#2-a-quel-type-dactions-appeler-vous)
+3. [Que puis-je faire?](../collapse_total_qna/#3-que-puis-je-faire)
+4. [Total n’est pas présent sur le territoire de mon groupe. Comment pouvons-nous rejoindre l’appel à l’action?](../collapse_total_qna/#4-total-nest-pas-présent-sur-le-territoire-de-mon-groupe.-comment-pouvons-nous-rejoindre-lappel-%C3%A0-laction)
+5. [Mon groupe prépare une action. Et maintenant?](../collapse_total_qna/#5-mon-groupe-pr%C3%A9pare-une-action.-et-maintenant)
+6. [Y a-t-il une coordination des supports de communication et de mobilisation?](../collapse_total_qna/#6-y-a-t-il-une-coordination-des-supports-de-communication-et-de-mobilisation)
+   - [Réseaux sociaux](../collapse_total_qna/#réseaux-sociaux)
+   - [Matériel de mobilisation et d’action](../collapse_total_qna/#matériel-de-mobilisation-et-daction)
+   - [Photos et vidéos de l’action](../collapse_total_qna/#photos-et-vidéos-de-laction)
+   - [Presse](../collapse_total_qna/#presse)
+   - [Articles, rapports et informations](../collapse_total_qna/#articles-rapports-et-informations)
+7. [Quel type de soutien est apporté?](../collapse_total_qna/#7-quel-type-de-soutien-est-apporté)
+
