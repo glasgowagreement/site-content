@@ -4,7 +4,7 @@ title: "Home"
 
 {{< icon-title "dark" "protest" "Collapse Total">}}
 
-On the 16th to 18th of November, 2021, we, groups that signed the Glasgow Agreement - Peoples' Climate Commitment, will take on multinational Total all over the world in decentralized direct actions and acts of non-cooperation.  
+On the 15th to 22nd of November, 2021, we, groups that signed the Glasgow Agreement - Peoples' Climate Commitment, will take on multinational Total all over the world in decentralized direct actions and acts of non-cooperation.  
 
 We call everyone to join us and collectively disrupt Total's operations using a diverse array of tactics for powerful, creative and compassionate actions to stop one of the most powerful and ecocidal actors on the Planet.  
 

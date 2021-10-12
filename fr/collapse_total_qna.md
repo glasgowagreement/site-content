@@ -47,7 +47,7 @@ Avez-vous souscrit à l'appel? Faites-le!
 
 Votre action est-elle annoncée publiquement? Partagez-la avec nous afin que nous puissions l'ajouter au site web et la partager avec tous les autres groupes!  
 
-Votre action se situe-t-elle en dehors des journées d'action (du 16 au 18)? Faites-nous savoir par des canaux sûrs quand elle aura lieu.  
+Votre action se situe-t-elle en dehors des journées d'action (du 15 au 22)? Faites-nous savoir par des canaux sûrs quand elle aura lieu.  
 
 Pouvez-vous écrire un article sur les raisons pour lesquelles nous devons faire s’effondrer cette entreprise pour éviter un effondrement total? Faites-le et envoyez-le!  
 

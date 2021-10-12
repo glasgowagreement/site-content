@@ -6,7 +6,7 @@ title: "Collapse Total"
 
 ### Necesitamos colapsar Total para evitar un colapso total
 
-Del 16 al 18 de noviembre de 2021, nosotros, el Acuerdo de Glasgow, enfrentaremos a la multinacional Total en todo el mundo en acciones directas descentralizadas.  
+Del 15 al 22 de noviembre de 2021, nosotros, el Acuerdo de Glasgow, enfrentaremos a la multinacional Total en todo el mundo en acciones directas descentralizadas.  
 
 # Llamado a La Acción
 
@@ -20,7 +20,7 @@ No nos mantendremos al margen y observaremos la historia, crearemos nuestra hist
 
 Necesitamos colapsar Total para evitar un colapso total.  
 
-**Hacemos un llamado a todas las organizaciones del movimiento por la justicia climática y más allá para que interrumpan colectivamente las operaciones de Total* del 16 al 18 de noviembre, utilizando una amplia gama de tácticas para acciones poderosas, creativas y compasivas.**  
+**Hacemos un llamado a todas las organizaciones del movimiento por la justicia climática y más allá para que interrumpan colectivamente las operaciones de Total* del 15 al 22 de noviembre, utilizando una amplia gama de tácticas para acciones poderosas, creativas y compasivas.**  
 
 **Únase al Día Mundial de la Acción Collape Total suscribiendo el llamado a la acción [aquí](https://framaforms.org/collapse-total-call-to-action-1627950762) o escribiendo a glasgowagreement@riseup.net**  
 

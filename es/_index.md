@@ -4,7 +4,7 @@ title: "Home"
 
 {{< icon-title "dark" "protest" "Collapse Total">}}
 
-Del 16 al 18 de noviembre de 2021, los grupos que firmamos el Acuerdo de Glasgow - Compromiso Climático de los Pueblos -, enfrentaremos a la multinacional Total en todo el mundo en acciones directas descentralizadas y actos de no cooperación.  
+Del 15 al 22 de noviembre de 2021, los grupos que firmamos el Acuerdo de Glasgow - Compromiso Climático de los Pueblos -, enfrentaremos a la multinacional Total en todo el mundo en acciones directas descentralizadas y actos de no cooperación.  
 
 Hacemos un llamamiento a todos los grupos para que se sumen e interrumpan colectivamente las operaciones de Total utilizando una amplia gama de tácticas para acciones poderosas y creativas para detener a uno de los actores más poderosos y ecocidas del Planeta.  
 

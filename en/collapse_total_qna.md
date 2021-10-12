@@ -47,7 +47,7 @@ Did you subscribe the call? Please do!
 
 Is your action publicly announced? Share it with us so we can add it to the website and share with all the other groups!  
 
-Is your action outside of the days of action (November 16th to 18th)? Let us know through secure channels when it will take place.  
+Is your action outside of the days of action (November 15th to 22nd)? Let us know through secure channels when it will take place.  
 
 Can you write an article about why we need to collapse total to avoid total collapse? If so please do and share it with us!  
 
