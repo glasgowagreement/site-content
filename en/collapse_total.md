@@ -67,12 +67,16 @@ More than 30 organizations have signed onto this call to action. Below is a list
 - ATTAC ESPAÑA
 - BEIE
 - Climáximo
+- Extinction Rebellion Luxembourg
 - Farmers' Voice (Krisoker Sor)
 - FFF Lebanon
 - FFF Portugal
+- Fundación Gaia Pacha
+- Green and Better World (XR Cameroon)
 - Innovovation pour le Développement et la Protection de l'Environnement
 - Kazdağı Doğal ve Kültürel Varlıkları Koruma Derneği-Kazdagi Association - Turkey
 - Missão Tabita
+- Movimiento independiente indígena lenca de la paz Honduras MILPAH (SOCIAL)
 - Plantemos Nativo ONG
 - SEPD asbl
 - XR France
