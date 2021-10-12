@@ -8,7 +8,7 @@ title: "Collapse Total"
 
 Del 15 al 22 de noviembre de 2021, nosotros, el Acuerdo de Glasgow, enfrentaremos a la multinacional Total en todo el mundo en acciones directas descentralizadas.  
 
-# Llamado a La Acción
+## Llamado a La Acción
 
 Durante más de medio siglo, los gobiernos, inversionistas y ejecutivos de corporaciones como Total han sido plenamente conscientes de las consecuencias de sus decisiones sobre la pérdida de biodiversidad y la destrucción de todas las formas de vida. 50 años de informes científicos y movilización ciudadana; 50 años de promesas rotas; desinformación, greenwashing, cabildeo. Entre otros, Total es uno de los actores clave en esta destrucción. Mientras la humanidad está llegando a los límites de su propio planeta, ellos se niegan a cambiar.  
 
@@ -26,7 +26,7 @@ Necesitamos colapsar Total para evitar un colapso total.
 
 \* *Si Total no opera en su país, aún puede unirse a la convocatoria realizando acciones directas a otra empresa/infraestructura importante presente en su territorio.*  
 
-# Cambio Sistémico y Acuerdo de Glasgow
+## Cambio Sistémico y Acuerdo de Glasgow
 
 El Acuerdo de Glasgow tiene como objetivo recuperar la iniciativa de los gobiernos y las instituciones internacionales mediante la creación de una herramienta alternativa de acción (inventario de emisiones y agenda climática) y un espacio para la  estrategia y coordinación para el movimiento por la justicia climática. Somos más de 170 organizaciones, unidas por el entendimiento de que se necesita un cambio sistémico, así como una definición común de [justicia climática](../agreement/).  
 
@@ -34,4 +34,4 @@ Entendemos que la sociedad civil debe tener su propio plan de acción y no esper
 
 Puede firmar y unirse al Acuerdo de Glasgow [aquí](../contact/).  
 
-#### Nosotros somos los que hemos estado esperando.
+### Nosotros somos los que hemos estado esperando.
