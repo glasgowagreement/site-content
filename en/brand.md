@@ -2,6 +2,22 @@
 title: "Brand"
 ---
 
+# COLLAPSE TOTAL
+
+![Collapse Total logo](/collapse_total/collapse_total.svg)  
+[PDF](/collapse_total/collapse_total.pdf)  
+[SVG](/collapse_total/collapse_total.pdf)  
+[PNG](/collapse_total/collapse_total.pdf)  
+
+
+[![Collapse Total flier EN](/collapse_total/collapse_total_flier_EN_256.png)](/collapse_total/collapse_total_flier_EN_1080.png)  
+[![Collapse Total flier ES](/collapse_total/collapse_total_flier_ES_256.png)](/collapse_total/collapse_total_flier_ES_1080.png)  
+[![Collapse Total flier FR](/collapse_total/collapse_total_flier_FR_256.png)](/collapse_total/collapse_total_flier_FR_1080.png)  
+
+[collapse_total_sticker_5x9_without_website.pdf](/collapse_total/collapse_total_sticker_5x9_without_website.pdf)  
+[collapse_total_sticker_5x9_with_site.pdf](/collapse_total/collapse_total_sticker_5x9_with_site.pdf)  
+
+
 # LOGO
 
 ![EN Round SVG](/logo/glasgowagreement_logo_EN.svg)  
@@ -35,10 +51,3 @@ title: "Brand"
 
 {{< brand_colours >}}
 
-
-# COLLAPSE TOTAL
-
-![Collapse Total logo](/collapse_total/collapse_total.svg)  
-[PDF](/collapse_total/collapse_total.pdf)  
-[SVG](/collapse_total/collapse_total.pdf)  
-[PNG](/collapse_total/collapse_total.pdf)  
