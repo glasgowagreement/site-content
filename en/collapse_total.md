@@ -67,6 +67,7 @@ More than 30 organizations have signed onto this call to action. Below is a list
 - ATTAC ESPAÑA
 - BEIE
 - Climáximo
+- Extinction Rebellion Brest
 - Extinction Rebellion Luxembourg
 - Farmers' Voice (Krisoker Sor)
 - FFF Lebanon
@@ -84,4 +85,5 @@ More than 30 organizations have signed onto this call to action. Below is a list
 - XR Rutshuru
 - XR université de Goma
 - XR Waltham Forest
+- YFC Frace
 - Youth for Climate Montluçon
