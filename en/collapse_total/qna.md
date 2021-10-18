@@ -88,9 +88,9 @@ You can find the logos and images [here](../brand/).
 
 ### Action Photos and Videos
 
-Please send us around 3 photos of your action and a short video before 19th November!  
+Please send us around 3 photos of your action and a short video within 24 hours of your action.  
 
-We will do a wrap up video with all actions and add the photos to the website.  
+We will make a wrap up video with all actions and add the photos to the website.  
 
 ### Press
 
@@ -98,7 +98,7 @@ We will send international press releases about the actions. If you/your group h
 
 All local/regional press will be covered by each organization. We would like it if you could forward us any press release you send related to Collapse Total.  
 
-Email: collapsetotal@glasgowagreement.net | [PGP public key](../../pgp/collapse_total_public_key.asc)  
+Email: collapsetotal@glasgowagreement.net | [PGP public key](../../../../../pgp/collapse_total_public_key.asc)  
 
 ### Articles, Reports and Information
 
