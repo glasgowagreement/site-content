@@ -74,6 +74,7 @@ More than 30 organizations have signed onto this call to action. Below is a list
 - Fundación Gaia Pacha
 - Green and Better World (XR Cameroon)
 - Innovovation pour le Développement et la Protection de l'Environnement
+- Justiça Ambiental - FoE Mozambique
 - Kazdağı Doğal ve Kültürel Varlıkları Koruma Derneği-Kazdagi Association - Turkey
 - Missão Tabita
 - Movimiento independiente indígena lenca de la paz Honduras MILPAH (SOCIAL)
