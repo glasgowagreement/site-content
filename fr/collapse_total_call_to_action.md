@@ -1,10 +1,8 @@
 ---
-title: "Collapse Total"
+title: "Collapse Total - Call to Action"
 ---
 
 {{< collapse_total_logo >}}
-
-{{< vimeo 635305307 >}}
 
 ### We need to collapse Total to avoid total collapse
 
@@ -28,30 +26,9 @@ We need to collapse Total to avoid total collapse.
 
 \* *If Total does not operate in your territory you can still join the call by conducting direct action against another major company/infrastructure present in your territory.*  
 
-## What can you do
-- Join the call and organize a direct action to disrupt Total’s operations as well as any other major actor of fossil capitalism!
-   - Have a banner saying “We need to collapse total [or the name of your target company] to avoid total collapse”
-   - Send 3 action photos and a small video 24h after your action to collapsetotal@glasgowagreement.net
-- Outreach other groups to join you and act
-- Write and Op-Ed about Why we need to collapse Total to avoid total collapse, launch it during the week of actions and share it with us  
-- Give financial support to groups that need it to do their actions
-- Share what is happening and Use the hashtags in all the post you do about Total and your action - #CollapseTotal #TotalCollapse
-
-## Systemic Change and Glasgow Agreement
-
-The Glasgow Agreement aims to reclaim the initiative from governments and international institutions by creating an alternative tool for action (emmissions inventory and climate agenda) and a space for strategy and coordination for the climate justice movement. We are more than 170 organisations, united by the understanding that systemic change is needed as well as a common definition of [climate justice](../agreement/).  
-
-We understand that civil society must have its own plan of action, and no longer wait for governments and international institutions to act. We aim to use a vast array of strategies and tactics, including civil disobedience, to achieve the necessary emissions cuts to prevent a 1.5ºC temperature rise by 2100. This will be the first of many diverse actions.  
-
-You can sign and join the Glasgow Agreement [here](../contact/).  
-
-### We are the ones we have been waiting for.
-
 ---
 
-## [Questions and Answers](../collapse_total_qna/)
-## [Why we need to collapse Total](../collapse_total_why_total/)
-## [Communication & Mobi Materials](../collapse_total_materials/)
+{{< form "https://framaforms.org/collapse-total-call-to-action-1627950762" >}}
 
 ---
 
