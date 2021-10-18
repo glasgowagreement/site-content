@@ -6,8 +6,9 @@ title: "Brand"
 
 ![Collapse Total logo](/collapse_total/collapse_total.svg)  
 [PDF](/collapse_total/collapse_total.pdf)  
-[SVG](/collapse_total/collapse_total.pdf)  
-[PNG](/collapse_total/collapse_total.pdf)  
+[SVG](/collapse_total/collapse_total.svg)  
+[transparent PNG](/collapse_total/collapse_total.png)  
+[JPG](/collapse_total/collapse_total.jpg)  
 
 
 [![Collapse Total flier EN](/collapse_total/collapse_total_flier_EN_256.png)](/collapse_total/collapse_total_flier_EN_1080.png)  
