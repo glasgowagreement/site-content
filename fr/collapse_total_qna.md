@@ -1,4 +1,4 @@
----
+﻿---
 title: "Questions sur l'action"
 icon: "light/question"
 toc: true
@@ -12,7 +12,7 @@ Le fait de se concentrer sur une entreprise à un moment précis permet au mouve
 
 Le capitalisme fossile est un système global avec des composants hautement articulés qui lui permettent d'absorber les chocs et les perturbations locales avec des adaptations mineures ou des changements superficiels. Il doit être frappé et perturbé au niveau mondial pour avoir un impact significatif.  
 
-## 2. A quel type d'actions appeler vous?
+## 2. A quel type d'actions appeller vous?
 
 Nous appelons à des actions directes puissantes et créatives et à des actes de non-coopération, en se concentrant sur les infrastructures de Total dans le monde entier.  
 
@@ -89,7 +89,7 @@ Vous pouvez trouver les logos et les images [ici](../../en/brand/).
 
 ### Photos et vidéos de l'action
 
-Veuillez nous envoyer environ 3 photos de votre action et une courte vidéo avant le 19 novembre!  
+Veuillez nous envoyer environ 3 photos de votre action et une courte vidéo dans les 24h suivant votre action !  
 
 Nous ferons une vidéo récapitulative avec toutes les actions et ajouterons les photos sur le site web.  
 
@@ -113,4 +113,4 @@ Pour l'instant nous ne soutenons pas financièrement les actions - Si vous ne co
 
 Si vous avez besoin d'entrer en contact avec d'autres groupes: i) de votre territoire; ii) qui travaillent sur des sujets similaires; iii) pour faire une action de solidarité; nous pouvons vous aider à faire ces connexions!  
 
-N'hésitez pas à nous faire part de toute demande par e-mail et nous vérifierons si une organisation membre peut y répondre!  
+N'hésitez pas à nous faire part de toute demande par e-mail et nous vérifierons si une organisation membre peut y répondre!

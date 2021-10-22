@@ -1,39 +1,39 @@
----
-title: "Collapse Total - Call to Action"
+﻿---
+title: "Effondrement de Total - Appel à l'Action "
 ---
 
 {{< collapse_total_logo >}}
 
-### We need to collapse Total to avoid total collapse
+### Nous devons faire s'effondrer Total pour éviter un effondrement total
 
-On the 15th to 22nd of November, 2021, we, the Glasgow Agreement, will take on multinational Total all over the world in decentralized direct actions.  
+Du 15 au 22 novembre 2021, nous, l'Accord de Glasgow, affronterons la multinationale Total dans le monde entier par des actions directes décentralisées. 
 
-## Call to Action
+## Appel à l'action
 
-For more than half a century, governments, investors and executives of corporations like Total have been fully aware of the consequences of their decisions on widespread biodiversity loss and the destruction of all forms of life. 50 years of scientific reports and citizen mobilization; 50 years of broken promises; disinformation, greenwashing, lobbying. Among others, Total is one of the key actors in this destruction. Whilst humanity is reaching the limits of its own planet, they refuse to change.  
 
-It’s time for people to take matters into their own hands the need to collectively cut greenhouse gas emissions and keep fossil fuels in the ground.  
+Depuis plus d'un demi-siècle, les gouvernements, les investisseurs et les dirigeants de sociétés comme Total sont pleinement conscients des conséquences de leurs décisions sur la perte généralisée de la biodiversité et la destruction de toute forme de vie. 50 ans de rapports scientifiques et de mobilisation citoyenne ; 50 ans de promesses non tenues ; de désinformation, de greenwashing, de lobbying. Parmi d'autres, Total est l'un des acteurs clés de cette destruction. Alors que l'humanité atteint les limites de sa propre planète, la multinationale refuse de changer.  
 
-We will not stand by and watch history, we will create our history.  
+Il est temps que les peuples prennent en main la nécessité de réduire collectivement les émissions de gaz à effet de serre et de maintenir les énergies fossiles dans le sol.  
 
-[{{< organisations_count >}} organisations from 54 countries](../organisations/) have signed the Glasgow Agreement. Now, we call on everyone for a global day of decentralized direct action and acts of non-cooperation to stop one of the most powerful and ecocidal actors on the Planet.  
+Nous n'allons pas rester les bras croisés devant l'histoire, nous allons créer notre histoire.  
 
-We need to collapse Total to avoid total collapse.  
 
-**We call on all organisations from the climate justice movement and beyond to collectively disrupt Total's operations\* on the 15th to 22nd of November, using a diverse array of tactics for powerful, creative and compassionate actions.**  
+[{{< organisations_count >}} organisations de 54 pays](../organisations/) ont signé l'Accord de Glasgow. Maintenant, nous appelons tout le monde à une journée mondiale d'action directe décentralisée et d'actes de non-coopération pour arrêter l'un des acteurs les plus puissants et les plus écocidaires de la planète.  
 
-**Join the Global Day of Action Collapse Total by subscribing the call to action [here](https://framaforms.org/collapse-total-call-to-action-1627950762) or by writing to glasgowagreement@riseup.net**  
+Nous devons faire s'effondrer Total pour éviter un effondrement total.  
 
-\* *If Total does not operate in your territory you can still join the call by conducting direct action against another major company/infrastructure present in your territory.*  
+**Nous appelons toutes les organisations du mouvement pour la justice climatique et au-delà à perturber collectivement les opérations de Total* du 15 au 22 novembre, en utilisant un large éventail de tactiques pour des actions puissantes et  créatives.**  
+
+**Rejoignez la Journée mondiale d'action pour l'effondrement de Total en souscrivant à l'appel à l'action [ici](https://framaforms.org/collapse-total-call-to-action-1627950762) ou en écrivant à glasgowagreement@riseup.net.**
+
+\* *Si Total ne mène pas d'activités sur votre territoire, vous pouvez néanmoins vous joindre à l'appel en menant des actions directes auprès d'autres grandes entreprises/infrastructures présentes sur votre territoire.*  
+
+
 
 ---
 
-{{< form "https://framaforms.org/collapse-total-call-to-action-1627950762" >}}
+## Organisations participantes
 
----
-
-## Participating Organisations
-
-More than {{< organisations_count_collapse_total >}} organizations have signed onto this call to action. Below is a list of those participating publicly:
+Plus de {{< organisations_count_collapse_total >}} organisations ont signé cet appel à l'action. Vous trouverez ci-dessous une liste de celles qui participent publiquement :
 
 {{< organisations_collapse_total >}}

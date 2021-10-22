@@ -1,62 +1,64 @@
----
-title: "Collapse Total"
+﻿---
+title: "Effondrement de Total"
 ---
 
 {{< collapse_total_logo >}}
 
 {{< vimeo 635305307 >}}
 
-### We need to collapse Total to avoid total collapse
 
-On the 15th to 22nd of November, 2021, we, the Glasgow Agreement, will take on multinational Total all over the world in decentralized direct actions.  
+### Nous devons faire s'effondrer Total pour éviter un effondrement total
 
-## Call to Action
+Du 15 au 22 novembre 2021, nous, l'Accord de Glasgow, affronterons la multinationale Total dans le monde entier par des actions directes décentralisées.  
 
-For more than half a century, governments, investors and executives of corporations like Total have been fully aware of the consequences of their decisions on widespread biodiversity loss and the destruction of all forms of life. 50 years of scientific reports and citizen mobilization; 50 years of broken promises; disinformation, greenwashing, lobbying. Among others, Total is one of the key actors in this destruction. Whilst humanity is reaching the limits of its own planet, they refuse to change.  
+## Appel à l'action
 
-It’s time for people to take matters into their own hands the need to collectively cut greenhouse gas emissions and keep fossil fuels in the ground.  
+Depuis plus d'un demi-siècle, les gouvernements, les investisseurs et les dirigeants de sociétés comme Total sont pleinement conscients des conséquences de leurs décisions sur la perte généralisée de la biodiversité et la destruction de toute forme de vie. 50 ans de rapports scientifiques et de mobilisation citoyenne ; 50 ans de promesses non tenues ; de désinformation, de greenwashing, de lobbying. Parmi d'autres, Total est l'un des acteurs clés de cette destruction. Alors que l'humanité atteint les limites de sa propre planète, la multinationale refuse de changer.  
 
-We will not stand by and watch history, we will create our history.  
+Il est temps que les peuples prennent en main la nécessité de réduire collectivement les émissions de gaz à effet de serre et de maintenir les énergies fossiles dans le sol.  
 
-[{{< organisations_count >}} organisations from 54 countries](../organisations/) have signed the Glasgow Agreement. Now, we call on everyone for a global day of decentralized direct action and acts of non-cooperation to stop one of the most powerful and ecocidal actors on the Planet.  
+Nous n'allons pas rester les bras croisés devant l'histoire, nous allons créer notre histoire.  
 
-We need to collapse Total to avoid total collapse.  
+[{{< organisations_count >}} organisations de 54 pays](../organisations/) ont signé l'Accord de Glasgow. Maintenant, nous appelons tout le monde à une journée mondiale d'action directe décentralisée et d'actes de non-coopération pour arrêter l'un des acteurs les plus puissants et les plus écocidaires de la planète.  
 
-**We call on all organisations from the climate justice movement and beyond to collectively disrupt Total's operations\* on the 15th to 22nd of November, using a diverse array of tactics for powerful, creative and compassionate actions.**  
+Nous devons faire s'effondrer Total pour éviter un effondrement total.  
 
-**Join the Global Day of Action Collapse Total by subscribing the call to action [here](https://framaforms.org/collapse-total-call-to-action-1627950762) or by writing to glasgowagreement@riseup.net**  
+**Nous appelons toutes les organisations du mouvement pour la justice climatique et au-delà à perturber collectivement les opérations de Total* du 15 au 22 novembre, en utilisant un large éventail de tactiques pour des actions puissantes et  créatives.**  
 
-\* *If Total does not operate in your territory you can still join the call by conducting direct action against another major company/infrastructure present in your territory.*  
+**Rejoignez la Journée mondiale d'action pour l'effondrement de Total en souscrivant à l'appel à l'action [ici](https://framaforms.org/collapse-total-call-to-action-1627950762) ou en écrivant à glasgowagreement@riseup.net.**
 
-## What can you do
-- Join the call and organize a direct action to disrupt Total’s operations as well as any other major actor of fossil capitalism!
-   - Have a banner saying “We need to collapse total [or the name of your target company] to avoid total collapse”
-   - Send 3 action photos and a small video 24h after your action to collapsetotal@glasgowagreement.net
-- Outreach other groups to join you and act
-- Write and Op-Ed about Why we need to collapse Total to avoid total collapse, launch it during the week of actions and share it with us  
-- Give financial support to groups that need it to do their actions
-- Share what is happening and Use the hashtags in all the post you do about Total and your action - #CollapseTotal #TotalCollapse
+\* *Si Total ne mène pas d'activités sur votre territoire, vous pouvez néanmoins vous joindre à l'appel en menant des actions directes auprès d'autres grandes entreprises/infrastructures présentes sur votre territoire.*  
+## Que pouvez vous faire ? 
+- Rejoignez l'appel et organisez une action directe pour perturber les opérations de Total ainsi que de tout autre acteur majeur du capitalisme fossile !
+   - Munissez-vous d'une banderole disant "Nous devons faire s'effondrer Total [ou le nom de votre entreprise cible] pour éviter un effondrement total".
+   - Envoyez 3 photos d'action et une petite vidéo 24h après votre action à collapsetotal@glasgowagreement.net.
+- Encouragez d'autres groupes à vous rejoindre et à agir
+- Rédigez un article d'opinion sur le thème "Pourquoi nous devons faire s'effondrer Total pour éviter un effondrement total", lancez-le pendant la semaine d'actions et partagez-le avec nous.  
+- Apportez un soutien financier aux groupes qui en ont besoin pour mener à bien leurs actions.
+- Partagez ce qui se passe et utilisez les hashtags dans tous les posts que vous faites sur Total et votre action - #CollapseTotal #TotalCollapse
 
-## Systemic Change and Glasgow Agreement
 
-The Glasgow Agreement aims to reclaim the initiative from governments and international institutions by creating an alternative tool for action (emmissions inventory and climate agenda) and a space for strategy and coordination for the climate justice movement. We are more than 170 organisations, united by the understanding that systemic change is needed as well as a common definition of [climate justice](../agreement/).  
+## Changement systémique et Accord de Glasgow
 
-We understand that civil society must have its own plan of action, and no longer wait for governments and international institutions to act. We aim to use a vast array of strategies and tactics, including civil disobedience, to achieve the necessary emissions cuts to prevent a 1.5ºC temperature rise by 2100. This will be the first of many diverse actions.  
+L’objectif de l’Accord de Glasgow est de reprendre l’initiative des gouvernements et des institutions internationales, de créer un outil alternatif d’action (inventaire et agenda climatique) et un espace de stratégie et de coordination pour le mouvement pour la justice climatique. Nous sommes plus de 170 organisations, unies par la compréhension qu'un changement systémique est nécessaire ainsi que par une définition commune de la [justice climatique](../agreement/).
 
-You can sign and join the Glasgow Agreement [here](../contact/).  
+Nous estimons que la société civile doit avoir son propre plan d'action, et ne peut plus attendre que les gouvernements et les institutions internationales agissent. Nous voulons utiliser un large éventail de stratégies et de tactiques, y compris la désobéissance civile, pour obtenir les réductions d'émissions nécessaires afin d'éviter une hausse de température de 1,5°C d'ici 2100. Cette action sera la première d'une longue série d'actions diverses.  
 
-### We are the ones we have been waiting for.
+Vous pouvez signer et rejoindre l'Accord de Glasgow [ici](../contact/).  
 
----
-
-## [Questions and Answers](../collapse_total_qna/)
-## [Why we need to collapse Total](../collapse_total_why_total/)
-## [Communication & Mobi Materials](../collapse_total_materials/)
+### Nous sommes celle et ceux que nous attendions.
 
 ---
 
-## Participating Organisations
+## [Questions Réponses](../collapse_total_qna/)
+## [Pourquoi devons nous faire s'effondrer Total](../collapse_total_why_total/)
+## [Communication & Matériel de mobilisation](../collapse_total_materials/)
 
-More than {{< organisations_count_collapse_total >}} organizations have signed onto this call to action. Below is a list of those participating publicly:
+---
+
+## Organisations participantes
+
+Plus de {{< organisations_count_collapse_total >}} organisations ont signé cet appel à l'action. Vous trouverez ci-dessous une liste de celles qui participent publiquement :
 
 {{< organisations_collapse_total >}}
+
