@@ -10,7 +10,7 @@ We call everyone to join us and collectively disrupt Total's operations using a 
 
 **We need to collapse Total to avoid total collapse.**  
 
-Read the call to action [here](collapse_total/call_to_action) and mobilize an action in your territory!
+Read the call to action [here](collapse_total_call_to_action) and mobilize an action in your territory!
 
 We will not stand by and watch history, we will create our history.  
 

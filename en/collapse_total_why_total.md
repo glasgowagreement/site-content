@@ -4,7 +4,7 @@ title: "Collapse Total - Why Total?"
 
 ## Why we need to collapse Total
 
-Fossil capitalism is organised globally. It has its fingers everywhere. In each government, every press agency, every media outlet and network, in anything that money can buy. It articulates its strategies, coordinates its wars and dictates the policies that doom us to climate collapse. They have known about climate change since the 1960's. They have coordinated for decades to spread misinformation to mislead Humanity and cut the essential action to prevent climate chaos.  
+Fossil capitalism is organised globally. It has its fingers everywhere. In each government, every press agency, every media outlet and network, in anything that money can buy. It articulates its strategies, coordinates its wars and dictates the policies that doom us to climate collapse. They have known about climate change since the 1960's. They have coordinated for decades to spread misinformation to mislead Humanity and cut the essential action to prevent climate chaos.[^10]  
 
 They never stopped. They never will. Unless we make them.  
 
@@ -32,3 +32,4 @@ In 2016 Total said they wouldn't drill in the artic - https://www.climatechangen
 [^7]: https://www.amisdelaterre.org/total-abandonne-ses-responsabilites-avec-son-annonce-de-force-majeure-sur-le-gaz-du-mozambique/ On their way towards becoming an expert on abandoning conflict areas and escaping any form of accountability, Total decided to leave Cabo Delgado LNG In april 2021, declaring force majeure and withdrawing all its staff from the area, whilst neglecting any previous commitments towards locals communities. The same reasons where used to leave Yémen in 2015, a site that ended up being used as a militar base and secret prison by the UAE milicies.  
 [^8]: With fracking bans placed now all over Europe because of its social and environmental impacts, Total continues to raise their investment in the dirtiest fossil fuel projects, with an increase in its interest in the license in Vaca Muerta from 27.27% to 41% in 2017, thus continuing to support companies that are fracking, destroying the health and livelihoods of local communities in Argentina.
 [^9]: Who is financing Total - https://reclaimfinance.org/site/en/2021/02/24/protect-the-climate-but-finance-total/  
+[^10]: https://totalknew.com/  

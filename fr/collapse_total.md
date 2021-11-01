@@ -4,7 +4,7 @@ title: "Effondrement de Total"
 
 {{< collapse_total_logo >}}
 
-{{< vimeo 635305307 >}}
+{{< vimeo 641124342 >}}
 
 
 ### Nous devons faire s'effondrer Total pour éviter un effondrement total
