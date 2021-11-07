@@ -1,0 +1,26 @@
+---
+title: "La Gran Caravana por la Justicia Climática"
+icon: "light/ecology"
+---
+
+La crisis climática ya está sobre nosotros. Nunca ha estado tan claro como hoy que el mundo en el que se construyeron las sociedades modernas ya no existe. El cambio climático es el momento decisivo de la humanidad: es el momento en que todo cambiará, desde los individuos hasta nuestras sociedades, llegando al núcleo de nuestros sistemas económicos y políticos. O lo cambiamos todo, o un clima infexible lo cambiará todo en nuestra contra.  
+
+Ha llegado el momento de salir a la carretera.  
+
+Según la ciencia, es perfectamente posible detener el colapso climático. También es la mayor tarea que se ha impuesto a cualquier generación de personas vivas en este planeta. Tenemos que hacerlo ahora. Los gobiernos, las instituciones internacionales, las empresas privadas, las corporaciones multinacionales y las instituciones fnancieras están demasiado apegadas al mantenimiento del capitalismo como para ser el vehículo de este cambio. Así que todas las iniciativas para frenar esta crisis han fracasado una y otra vez, ya que la situación ha empeorado. Pero las personas, los movimientos sociales y las organizaciones populares son el instrumento clave para el cambio de sistema del que llevamos hablando tantos años.  
+
+En 2022 salimos a la carretera. El Acuerdo de Glasgow -una plataforma mundial de movimientos y organizaciones de base por la justicia climática en todos los continentes- llama a la organización descentralizada de caravanas, para afrmar una nueva primavera de los pueblos. Marcharemos por valles y montañas de todos los continentes para conectar directamente con las comunidades afectadas por la crisis climática en sus múltiples aspectos -desde las sequías, las inundaciones, los incendios forestales, la subida del nivel del mar, el colapso de la biodiversidad, la degradación del agua hasta los confictos y las migraciones- y para enfrentarnos a los creadores de esta crisis existencial. Saldremos a la carretera durante quince días o un mes, abordando las cuestiones clave y enfrentándonos a los principales contaminadores en territorios de todo el mundo.  
+
+Esta caravana global tendrá diferentes formatos, ajustándose a las características, movimientos y luchas de cada territorio. Queremos estar allí, donde más se siente la crisis climática, con losprotectores de los territorios, del agua, de los suelos, de los bosques, de los animales, con los protectores de la vida y de las personas. Queremos construir la justicia climática en primera línea, y queremos desafar a los mercaderes de la muerte del capitalismo - fósil, industrial, extractivista, o como se pinte con él. Marcaremos en nuestro camino algunas de las infraestructuras que más emiten en nuestros territorios: pozos de petróleo y gas, minas, refnerías, puertos, centrales eléctricas de carbón y gas, empresas de cemento y papel, acerías, productos químicos, agricultura y ganadería intensivas. También señalaremos la destrucción del medio ambiente, la tala y destrucción de los bosques, la degradación de los ecosistemas y la destrucción de los medios de vida de las personas.  
+
+La única manera de ganar la lucha por la justicia climática, la lucha por un futuro, es ponerse en marcha y crear una historia común con las comunidades que llevan mucho tiempo en esta lucha. Es hablar de justicia climática en las luchas concretas de cada territorio. Para detener el caos climático, necesitamos un movimiento más grande y más fuerte de lo que el mundo ha visto nunca, más fuerte de lo que este frágil sistema ha experimentado jamás. Necesitamos un movimiento popular y efcaz, activo y comprometido con la construcción de un futuro para la Humanidad y el Sistema Tierra.  
+
+Ha llegado el momento de salir a la carretera.  
+
+Marcharemos para encontrarnos con los demás y con nosotros mismos, para reforzar nuestra determinación, para comprometernos cada vez más en la lucha por nuestra vida. Tenemos que tender nuestros puentes, construir nuestras alianzas, conocer nuestras fuerzas y nuestra determinación. Hacemos un llamamiento a todos los movimientos y organizaciones comprometidos con la justicia social, histórica y climática para que presten atención a este llamamiento y marchen con nosotros, para que recorran las calles, el campo, las aldeas y los barrios marginales, para que se comprometan con las comunidades que se encuentran en primera línea de las crisis actuales de este sistema. También hacemos un llamamiento a todos los movimientos y organizaciones para que vayan a la fuente física de la crisis climática: las fábricas y máquinas que expulsan humo y cuya continuación signifca nuestra desaparición colectiva.  
+
+Hacemos un llamamiento a todos los movimientos y organizaciones para que se pongan en marcha.  
+
+Tenemos que ganar si queremos que la civilización sobreviva y forezca. ¡Únete a nosotros en la Gran Caravana por la Justicia Climática!  
+
+{{< form "https://framaforms.org/the-great-climate-justice-caravan-1636280994" >}}

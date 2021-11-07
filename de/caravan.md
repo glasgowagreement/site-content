@@ -1,0 +1,26 @@
+---
+title: "Die große Karawane für Klimagerechtigkeit"
+icon: "light/ecology"
+---
+
+Die Klimakrise hat uns bereits erreicht. Noch nie war es so klar wie heute, dass die Welt, in der die modernen Gesellschaften entstanden sind, nicht mehr existiert. Der Klimawandel ist derentscheidende Moment für die Menschheit: Dies ist der Moment, in dem sich alles verändern wird, vom Einzelnen über unsere Gesellschaften bis hin zum Kern unserer wirtschaftlichen und politischen Systeme. Entweder wir ändern alles, oder ein unnachgiebiges Klima wird alles gegen uns verändern.  
+
+Die Zeit ist gekommen, dass wir uns auf den Weg machen.  
+
+Der Wissenschaft zufolge ist es durchaus möglich, den Klimakollaps aufzuhalten. Es ist auch die größte Aufgabe, die jemals einer Generation von Menschen auf diesem Planeten gestellt wurde. Wir müssen es jetzt tun. Regierungen, internationale Institutionen, Privatunternehmen, multinationale Konzerne und Finanzinstitutionen sind zu sehr auf die Aufrechterhaltung des Kapitalismus fxiert, als dass sie als Vehikel für diesen Wandel dienen könnten. Alle Initiativen zur Beendigung dieser Krise sind also immer wieder gescheitert, während sich die Situation verschlimmert hat. Aber die Menschen, die sozialen Bewegungen und die Volksorganisationen sind das Schlüsselinstrument für den Systemwandel, von dem wir seit so vielen Jahren sprechen.  
+
+Im Jahr 2022 machen wir uns auf den Weg. Der Glasgow Accord - eine globale Plattform von Basisbewegungen und Organisationen für Klimagerechtigkeit auf allen Kontinenten - ruft zur dezentralen Organisation von Karawanen auf, um einen neuen Frühling der Völker zu begründen. Wir werden durch Täler und Berge auf allen Kontinenten marschieren, um direkt mit den Gemeinschaften in Kontakt zu treten, die von der Klimakrise in ihren vielen Aspekten betroffen sind - von Dürren, Überschwemmungen, Waldbränden, dem Anstieg des Meeresspiegels, dem Zusammenbruch der biologischen Vielfalt, der Wasserverschmutzung bis hin zu Konfikten und Migration - und um die Verursacher dieser existenziellen Krise zu konfrontieren. Wir werden zwei Wochen bis einen Monat lang unterwegs sein, um die wichtigsten Themen anzusprechen und die Hauptverursacher in Gebieten auf der ganzen Welt zu konfrontieren.  
+
+Diese globale Karawane wird verschiedene Formate haben, die sich an die Merkmale, Bewegungen und Kämpfe der einzelnen Gebiete anpassen. Wir wollen dort sein, wo die Klimakrise am stärksten zu spüren ist, bei den Beschützern von Gebieten, Wasser, Böden, Wäldern, Tieren, bei den Beschützern des Lebens und der Menschen. Wir wollen Klimagerechtigkeit an vorderster Front schaffen und wir wollen die Todeshändler des Kapitalismus herausfordern - fossil, industriell, extraktivistisch oder wie auch immer man es bezeichnen mag. Wir werden auf unseren Wegen einige der am stärksten emittierenden Infrastrukturen in unseren Gebieten markieren - Öl- und Gasbohrungen, Bergwerke, Raffnerien, Häfen, Kohle- und Gaskraftwerke, Zement- und Papierunternehmen, Stahlwerke, chemische Industrie, intensive Landwirtschaft und Viehzucht. Wir werden auch auf die Umweltzerstörung, die Abholzung und Vernichtung von Wäldern, die Schädigung von Ökosystemen und die Zerstörung der Lebensgrundlagen der Menschen hinweisen.  
+
+Der einzige Weg, den Kampf für Klimagerechtigkeit, den Kampf für eine Zukunft zu gewinnen, besteht darin, sich auf den Weg zu machen und eine gemeinsame Geschichte mit Gemeinschaften zu schreiben, die schon lange in diesem Kampf stehen. Es geht darum, über Klimagerechtigkeit in den konkreten Kämpfen in jedem Gebiet zu sprechen. Um das Klimachaos zu stoppen, brauchen wir eine Bewegung, die größer und stärker ist, als die Welt sie je gesehen hat, stärker, als dieses fragile System je erlebt hat. Wir brauchen eine populäre und wirksame Bewegung, die sich aktiv und engagiert für die Gestaltung einer Zukunft für die Menschheit und das Erdsystem einsetzt.  
+
+Die Zeit ist gekommen, dass wir uns auf den Weg machen.  
+
+Wir werden marschieren, um andere und uns selbst zu treffen, um unsere Entschlossenheit zu stärken und um uns mehr und mehr dem Kampf um unser Leben zu widmen. Wir müssen unsere Brücken bauen, unsere Allianzen bilden, unsere Stärken und unsere Entschlossenheit kennen. Wir rufen alle Bewegungen und Organisationen, die sich für soziale, historische und Klimagerechtigkeit einsetzen, dazu auf, diesem Aufruf zu folgen und mit uns zu marschieren, auf die Straßen, aufs Land, in die Dörfer und Slums zu gehen, um sich mit den Gemeinschaften an der vordersten Front der anhaltenden Krisen dieses Systems zu engagieren. Wir rufen auch alle Bewegungen und Organisationen dazu auf, sich an die physische Quelle der Klimakrise zu begeben - die rauchenden Fabriken und Maschinen, deren Fortbestehen unseren kollektiven Untergang bedeutet.  
+
+Wir rufen alle Bewegungen und Organisationen auf, sich auf den Weg zu machen.  
+
+Wir müssen gewinnen, wenn die Zivilisation überleben und gedeihen soll! Nehmen Sie an der großen Karawane für Klimagerechtigkeit teil!  
+
+{{< form "https://framaforms.org/the-great-climate-justice-caravan-1636280994" >}}
