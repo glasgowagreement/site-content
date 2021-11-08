@@ -2,7 +2,7 @@
 title: "Emissions Inventories"
 ---
 
-# Completed Emissions Inventories
+# Published Emissions Inventories
 
 ## Ireland
 {{< inventory "IE" >}}
@@ -17,6 +17,7 @@ title: "Emissions Inventories"
 ### Bolivia
 {{< inventory "BO" >}}
 ### Brazil
+### Canada
 ### Colombia
 ### DR Congo
 ### France
