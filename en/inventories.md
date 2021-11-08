@@ -15,6 +15,7 @@ title: "Emissions Inventories"
 # Inventories In Progress
 
 ### Bolivia
+{{< inventory "BO" >}}
 ### Brazil
 ### Colombia
 ### DR Congo
@@ -25,12 +26,19 @@ title: "Emissions Inventories"
 ### Ivory Coast
 ### Latvia
 ### Luxembourg
+{{< inventory "LU" >}}
 ### Mali
 ### Mexico
 ### Morocco
+{{< inventory "MA" >}}
 ### Netherlands
+{{< inventory "NL" >}}
 ### Peru
+{{< inventory "PE" >}}
 ### Spain
+{{< inventory "ES" >}}
 ### South Africa
+{{< inventory "ZA" >}}
 ### Switzerland
 ### USA
+{{< inventory "US" >}}
