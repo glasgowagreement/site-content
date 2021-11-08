@@ -4,4 +4,4 @@ title: "Home"
 
 ---
 
-*Questa pagina non è stata ancora tradotta. *
+*Questa pagina non è stata ancora tradotta.*

@@ -18,6 +18,18 @@ We will not stand by and watch history, we will create our history.
 
 ---
 
+{{< icon-title "dark" "draft" "Drill, Baby, Drill">}}
+
+The Drill, Baby, Drill report details 184 oil and gas wells that have been drilled and completed in 2021, as well as more than 800 additional wells to be drilled between now and the end of 2022.
+
+Each one of these wells represents not only Ecocide, but a suicidal project for Humanity. We call on everyone to spread this information far and wide, to act on it, to campaign on it, and to block and stop any and all of these projects.
+
+They never stopped, and they never will, unless we make them.
+
+Read the report [here](./drillbabydrill).
+
+---
+
 {{< icon-title "dark" "justice" "What is the purpose of" "the Glasgow Agreement?">}}
 
 The purpose of the [Glasgow Agreement](./agreement) is to reclaim the initiative from governments and international institutions by creating an alternative tool for action (inventory and climate agenda) and a space for strategy and coordination for the climate justice movement. Until now the climate justice movement has had a very big focus on pressuring governments to take action on climate, or to push for stronger international agreements within the framework of the UN Framework Convention on Climate Change (UNFCCC), such as the Kyoto Protocol in 1997 or the Paris Agreement in 2015. Meanwhile, emissions have continued to rise. Hence the Glasgow Agreement proposes that civil society proposes its own plan of action, no longer waiting for governments and international institutions to do so. We aim to use a vast array of strategies and tactics, including civil disobedience, to achieve the necessary emissions cuts to prevent a 1.5ºC temperature rise by 2100.  
