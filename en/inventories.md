@@ -10,10 +10,8 @@ title: "Emissions Inventories"
 ## Portugal
 {{< inventory "PT" >}}
 
-## Spain
-{{< inventory "ES" >}}
-
 ---
+
 # Inventories In Progress
 
 ### Bolivia
@@ -32,6 +30,7 @@ title: "Emissions Inventories"
 ### Morocco
 ### Netherlands
 ### Peru
+### Spain
 ### South Africa
 ### Switzerland
 ### USA
