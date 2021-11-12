@@ -18,6 +18,9 @@ title: "Brand"
 [collapse_total_sticker_5x9_without_website.pdf](/collapse_total/collapse_total_sticker_5x9_without_website.pdf)  
 [collapse_total_sticker_5x9_with_site.pdf](/collapse_total/collapse_total_sticker_5x9_with_site.pdf)  
 
+[![Collapse Total flier 2a EN](/collapse_total/collapse_total_flier_2a_EN_512.jpg)](/collapse_total/collapse_total_flier_2a_EN_1600.jpg)  
+[![Collapse Total flier 2b EN](/collapse_total/collapse_total_flier_2b_EN_512.jpg)](/collapse_total/collapse_total_flier_2b_EN_1600.jpg)  
+
 
 # LOGO
 
