@@ -1,7 +1,7 @@
 ---
 title: "الإعلام"
 icon: "light/chat"
-date: "2021-04-26"
+date: "2021-11-24"
 updated: true
 ---
 
