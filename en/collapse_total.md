@@ -13,42 +13,42 @@ On the 15th to 22nd of November, 2021, we, the Glasgow Agreement, will take on m
 
 ## What's Happening?
 
-### DR Congo
+### DR Congo - Rutshuru
 
-XR Rutshuru  
+Exploitation of oil and mining resources in the Virunga National Park east of RD Congo in North Kivu is a threat to climate displaced people and local communities already victims of several atrocities including climate injustice and repeated wars.  
+
+This is certainly what the displaced living in a makeshift camp in Rutshuru made known on 15 November through a mobilisation activity in the framework of the #Collapse Total campaign with our movement #Xrrutshuru.  
+
 ![](/collapse_total/actions/xr_rutshuru_congo.jpg)
 
->[FR] L'exploitation des ressources pétrolières et minières dans le Parc National des Virunga à l'est de la RdCongo dans le Nord-Kivu est une menace de trop pour les déplacés climatiques et les communautés locales déjà victimes de plusieurs atrocités dont les injusctices climatique et les guerres à répétition . C'est sûrement ce qu'on fait savoir ce 15 novembre les  déplacés vivant dans un campement de fortune se trouvant dans le Rutshuru à travers une activité de mobilisation dans le cadre de la campagne #Collapse Total avec notre mouvement #Xrrutshuru. Nous allons implémenter énormément d'actions pour totalement effondrer Total et exiger nettement une réparation des dommages causés par les pays pollueurs.
+On the 20th November, members of local communities bordering the giant Virunga National Park protest and mobilized others to urgently prevent the new projects of the company Total including oil extraction in the Virunga landscape.  
 
->[EN] Exploitation of oil and mining resources in the Virunga National Park east of RdCongo in North Kivu is a threat too much to climate displaced people and local communities already victims of several atrocities including climate injustice and repeated wars. This is surely what we let know this 15th November the displaced living in a fortune camp in Rutshuru through a mobilization activity as part of the #Collapse Total campaign with our #Xrrutshuru movement. We are going to implement huge actions to completely collapse Total and demand clearly repair the damage caused by polluting countries.
+They will keep the fight to collapse Total and to demand clear reparation for the damage caused by the polluting countries.  
 
-https://www.facebook.com/102849748537310/posts/260608602761423/  
+![](/collapse_total/actions/xr_rutshuru_congo2.jpg)
 
-### Germany
+Share and support:
+- https://www.facebook.com/102849748537310/posts/260608602761423/  
+- https://www.facebook.com/102849748537310/posts/263135375842079/  
+- https://twitter.com/GlasgowAgreeme2/status/1462858662662356993  
 
-![](/collapse_total/actions/germany.png)  
-https://collapsetotal.de/  
-Daily webinars.  
-21st - A toxic tour and Demo at Total's offices in Berlin.  
+### Zambia
 
-### Spain
+Friday for Future Zambia on 22nd November went to the streets because we need to Collapse Total an all the fossil fuel industry.  
 
-At the planta de Reganosa en Mugardos, A Coruña "Clean gas is a dirty lie"  
-![](/collapse_total/actions/coruna.jpg)  
-https://twitter.com/greenpeace_esp/status/1460273338178224130?s=20
+![](/collapse_total/actions/zambia.jpg)
 
+Share and support: https://www.facebook.com/112129384309461/posts/263048549217543/?app=fbl
 
-Andaluzia, Malaga - "Exigimos el cierre de la Cementera del barrio de La Araña"  
-![](/collapse_total/actions/malaga.jpg)  
-{{< vimeo 647057414 >}} 
-https://twitter.com/Greenpeace_And/status/1460231693709848586?s=20  
-https://twitter.com/GlasgowAgreeme2/status/1459860432458596353?s=20  
+### Mozambique
 
-### Portugal
+After destroying Cabo Delgado, Total keeps on continue to exploit and attack communities and biodiversity in Mozambique. Total Futseka!
 
-18th - Activists in Portugal will blockade the Galp oil refinery in Sines.  
-https://www.climaximo.pt/vamos-juntas/  
-https://fb.me/e/QEzQNwyR  
+![](/collapse_total/actions/mozambique.png)
+
+Read more: https://justica-ambiental.org/2021/11/16/eu-sou-pescador-preciso-do-mar/  
+
+Share and support: https://www.facebook.com/ja4change/photos/a.192862144081261/4752837018083728/  
 
 ### Lebanon
 
@@ -57,23 +57,87 @@ https://www.instagram.com/p/CWWWF7UMZQ2/?utm_medium=copy_link
 
 >We thus reject all neocolonial influences acting against us. We can bring direct democracy for even cheaper than an electoral campaign. We are planting forests, meeting, cooking for each other, walking, moving through bicycles and skates... we are the future, now.
 
-### France
+{{< vimeo 650128156 >}}
 
-XR Brest - Rebelion of One
-![](/collapse_total/actions/xr_brest.jpg)
-https://www.facebook.com/100278371466146/posts/441566144004032  
+### France - Brest
 
-20th - XR Lyon  
-https://twitter.com/xr_lyon/status/1460297572816502786  
+XR Brest disrupts a Total gas station, in solidarity with frontline communities.  
+![](/collapse_total/actions/france_brest.png)
 
-### Switzerland
+Read more: https://www.facebook.com/XRBrest/posts/441548457339134
 
-18th - Collectif Breakfree Suisse - #CollpaseTotal tour in Genova  
-https://www.instagram.com/p/CWVWdo-oXUS/  
+### France - Lille
 
->CollapseTotal Toxic Tour on Thursday in the city of the firm's gas trading office and of its reinsurance company  We will also pass through the consulate of Uganda and Argentina. Last but not least several Swiss banks with main offices are its business partner.  
+XR Lille and Youth For Climate Lille on the 20th did a performative direct action towards Crédit Agricole and BNP Paribas who supply Total with billion dollars of invests.  
 
-### Denmark
+![](/collapse_total/actions/france_lille.jpg)
+
+See it here: https://www.youtube.com/watch?v=6YDHUAEc-XM  
+
+### France - Bordeaux
+
+![](/collapse_total/actions/bordeaux1.jpg)
+![](/collapse_total/actions/bordeaux2.jpg)
+
+See more: https://www.instagram.com/p/CWfw55SKpPp/?utm_medium=copy_link 
+
+### France - Vienne
+
+![](/collapse_total/actions/france_vienne1.jpg)
+![](/collapse_total/actions/france_vienne2.jpg)
+
+See it: https://twitter.com/GlasgowAgreeme2/status/1461763228678164492  
+
+### France - Grenoble
+
+Disruption at gas station on 20th November.  
+
+![](/collapse_total/actions/grenoble1.jpg)
+
+And on 21th November.  
+
+![](/collapse_total/actions/grenoble2.jpg)
+
+### France - Lyon
+
+Sabotage and disruption at a gas station.  
+{{< vimeo 650124259 >}}
+
+Read more: https://www.lyonmag.com/article/119204/lyon-deux-stations-totalenergies-sabotees-par-des-militants-d-extinction-rebellion  
+
+### France - Strasbourg
+
+![](/collapse_total/actions/strasbourg.jpg)
+
+### France - Paris
+
+![](/collapse_total/actions/paris.jpg)
+
+see more: https://twitter.com/Youth4Climatefr/status/1462752001415163906?s=20  
+
+### France - Nantes
+
+![](/collapse_total/actions/nantes.jpg)
+
+See more: https://twitter.com/Theop_rn/status/1463561310969421830?s=20  
+
+### France - Nice
+
+![](/collapse_total/actions/nice.jpg)
+
+### France - Auxerre
+
+![](/collapse_total/actions/auxerre.jpg)
+
+read more: https://aspopauxerre89.blogspot.com/2021/11/communique-collapse-total.html?m=1  
+
+### France - Toulouse
+
+![](/collapse_total/actions/toulouse.jpg)
+
+See it here: https://twitter.com/xrToulouse/status/1463153222684753937?s=20 
+
+### Denmark - Copenhagen
 
 16th - Demo at Total Energies headquarters in Copenhagen.  
 
@@ -85,6 +149,127 @@ https://www.instagram.com/p/CWVWdo-oXUS/
 
 >Following a public solidarity demo on Tuesday, activists stepped up to put pressure on Total together with activists all around the world. Under the umbrella of #CollapseTotal to avoid #TotalCollapse we will not accept their dirty lies and destructive industry.
 
+18th – Activists returned for the third day in a row, and began deconstruction of Total's headquarters. This time they covered up the windows of the office, postering statements from activists across the world as well as a declaration to continue the struggle against the fossil fuel industry.  
+
+{{< vimeo 650107220 >}}
+
+
+### Germany - Berlin
+
+![](/collapse_total/actions/berlin1.jpg)  
+
+Demo in front of Total’s building in Berlin at 21th November.  
+
+![](/collapse_total/actions/berlin2.jpg)  
+
+Find out more: https://collapsetotal.de/  
+
+### Germany - Duisburg
+
+Banner drop on 21th November at Total fuel depot in Duisburg by Der Aufbruch.  
+
+![](/collapse_total/actions/duisberg.jpg)  
+
+See more here: https://twitter.com/der_aufbruch/status/1462499335443210242
+
+### UK - London
+
+On the 22nd, activists adhack London bus-stops. For 2030, Total plans for 85% of its energy sales to still be ether oil or gas! We must stop them.  
+
+![](/collapse_total/actions/london.jpg)  
+
+See them all here: https://twitter.com/GlasgowAgreeme2/status/1462837406219001862  
+
+### Luxemburg
+
+On the 19th XR Luxemburg blocked one of Total's gas stations.
+
+![](/collapse_total/actions/luxemburg1.jpg)  
+![](/collapse_total/actions/luxemburg2.jpg)  
+
+See it here: https://www.instagram.com/p/CWbQWz4N-SU/?utm_medium=copy_link  
+
+### Portugal
+
+More than 100 activists blocked for several hours the oil refinery from Galp in Sines, Portugal to demand the shutdown of the infrastructure, just transition for the workers and energy democracy.  
+
+{{< vimeo 648135328 >}}
+
+Find out more: https://www.climaximo.pt/vamos-juntas/  
+
+### Turkey
+
+On 19th November activists stood in solidarity with all peoples fighting against Total Energy and call on everyone bring their hands together to stop the big polluters.  
+
+![](/collapse_total/actions/turkey.jpg)  
+
+See more: https://twitter.com/GlasgowAgreeme2/status/1461727281773264896
+
+### Switzerland - Geneva
+
+On 18th November a #CollapseTotal tour happened in Geneva, organized by Collectif BreakFree, where they exposed the business of the ecocide firm Total and its links to Credit Suisse, UBS, SNB BNS and Black Rock.  
+
+![](/collapse_total/actions/geneva.jpg)  
+
+Find out more:
+- https://www.instagram.com/p/CWdH1Z4oQcc/
+- https://twitter.com/BreakfreeCH/status/1461726099495346187
+
+### Spain - Segovia
+
+Toxic Tour on November 21st.  
+
+![](/collapse_total/actions/segovia.jpg)  
+
+See it all: https://twitter.com/ateneo_liber_sg/status/1462389559363358721?s=20  
+
+### Spain - Galicia, A Coruña
+
+At the planta de Reganosa en Mugardos "Clean gas is a dirty lie"  
+![](/collapse_total/actions/coruna.jpg)  
+https://twitter.com/greenpeace_esp/status/1460273338178224130?s=20
+
+### Spain - Andaluzia, Malaga
+
+"Exigimos el cierre de la Cementera del barrio de La Araña"  
+
+{{< vimeo 647057414 >}}
+
+Activists act against the cement factory in La Araña. We need to close with a just transition of the major emitting infrastructures to avoid total collapse.  
+
+https://twitter.com/Greenpeace_And/status/1460231693709848586?s=20  
+https://twitter.com/GlasgowAgreeme2/status/1459860432458596353?s=20  
+
+This action was part of an action day in the Spanish State where activists act on several emitters infrastructures like the Reganosa's plant in Mugardos.  
+
+![](/collapse_total/actions/malaga.jpg)  
+
+### Scotland - Glasgow
+
+Guerrilla projection during COP26.  
+
+![](/collapse_total/actions/glasgow.jpg)  
+
+Projection by @x_feral in Glasgow during COP26. Artwork by @signsofrevolt  
+
+More at: https://twitter.com/FrackOffLondon/status/1461802849583742977?s=20 
+
+### Online Webinars
+
+"How to blow up Total", with Andreas Malm, organised by Collapse Total DE. [See it here](https://youtu.be/dalfUzf-tsY).  
+
+"Total’s responses to global warming" with Pierre-Louis Choquet from SciencesPo, Paris, organized by Collapse Total DE. [See it here](https://youtu.be/fJBsaYchNMU).  
+
+"Sustainable Aviation Fuels – Grüne Hoffnung oder Grüne Lüge? with Anne Kretzschmar from Stay Grounded, organized by Collapse Total DE. [See it here](https://youtu.be/p3MnHlt0kgE).  
+
+"From the Arctic to Mozambique – The Global Oil & Gas Exit List and Total’s Dirty and Dangerous Projects" with Katharina Bachmann and Signe Moe from urgewald as well as "Fracking Vaca Muerta“, with Esteban Servat from Shale Must Fall. Organized by Collapse Total DE. [See it here](https://youtu.be/3tEO2_u0NR4)
+
+
+"Mit Klimaklagen gegen die fossile Industrie" with Sascha Boden from Deutsche Umwelthilfe organized by Collapse Total DE. [See it here](https://youtu.be/qZZ3SkKckYk).  
+
+A webinar on Total imperialism and its harmful consequences happened on the 22th November, organized by 350.org France.  
+
+{{< vimeo 650118577 >}}
 
 ## Systemic Change and Glasgow Agreement
 
