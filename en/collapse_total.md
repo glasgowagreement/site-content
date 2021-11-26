@@ -223,12 +223,6 @@ Toxic Tour on November 21st.
 
 See it all: https://twitter.com/ateneo_liber_sg/status/1462389559363358721?s=20  
 
-### Spain - Galicia, A Coruña
-
-At the planta de Reganosa en Mugardos "Clean gas is a dirty lie"  
-![](/collapse_total/actions/coruna.jpg)  
-https://twitter.com/greenpeace_esp/status/1460273338178224130?s=20
-
 ### Spain - Andaluzia, Malaga
 
 "Exigimos el cierre de la Cementera del barrio de La Araña"  
