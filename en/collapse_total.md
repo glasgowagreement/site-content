@@ -90,13 +90,7 @@ See it: https://twitter.com/GlasgowAgreeme2/status/1461763228678164492
 
 ### France - Grenoble
 
-Disruption at gas station on 20th November.  
-
-![](/collapse_total/actions/grenoble2.jpg)
-
-And on 21th November.  
-
-![](/collapse_total/actions/grenoble1.jpg)
+![](/collapse_total/actions/grenoble.jpg)
 
 ### France - Lyon
 
@@ -104,6 +98,8 @@ Sabotage and disruption at a gas station.
 {{< vimeo 650124259 >}}
 
 Read more: https://www.lyonmag.com/article/119204/lyon-deux-stations-totalenergies-sabotees-par-des-militants-d-extinction-rebellion  
+![](/collapse_total/actions/lyon.jpg)  
+
 
 ### France - Rennes
 
