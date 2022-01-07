@@ -1,7 +1,7 @@
 ---
 title: "Organisations Participantes"
 icon: "light/community"
-date: "2021-12-24"
+date: "2022-01-07"
 updated: true
 ---
 
